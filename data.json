@@ -1,0 +1,3977 @@
+{
+  "group1": {
+    "round1": {
+      "roundMatchups": [
+        {
+          "matchupId": "10998488111099846738",
+          "round": 1,
+          "attributes": {
+            "complete": true,
+            "song1": {
+              "song": {
+                "id": "1099848811",
+                "type": "songs",
+                "href": "/v1/catalog/us/songs/1099848811",
+                "attributes": {
+                  "albumName": "White Pony",
+                  "genreNames": [
+                    "Hard Rock",
+                    "Music",
+                    "Rock",
+                    "Alternative",
+                    "Adult Alternative",
+                    "Metal"
+                  ],
+                  "trackNumber": 11,
+                  "releaseDate": "2000-06-20",
+                  "durationInMillis": 299587,
+                  "isrc": "USRE11600104",
+                  "artwork": {
+                    "width": 1425,
+                    "height": 1425,
+                    "url": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/96/51/57/96515710-cf91-0663-6f5a-942acf6ea31b/093624919797.jpg/{w}x{h}bb.jpg",
+                    "bgColor": "3a4784",
+                    "textColor1": "ffffff",
+                    "textColor2": "ffffff",
+                    "textColor3": "d7dae6",
+                    "textColor4": "d7dae6"
+                  },
+                  "composerName": "Abe Cunningham, Chi Cheng, Chino Moreno, Frank Delgado & Stephen Carpenter",
+                  "url": "https://music.apple.com/us/album/change-in-the-house-of-flies/1099848709?i=1099848811",
+                  "playParams": {
+                    "id": "1099848811",
+                    "kind": "song"
+                  },
+                  "discNumber": 1,
+                  "hasLyrics": true,
+                  "isAppleDigitalMaster": true,
+                  "name": "Change (In the House of Flies)",
+                  "previews": [
+                    {
+                      "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/58/3d/ca/583dcad3-e2ca-e229-f089-637b0ab7d328/mzaf_14300378853874282579.plus.aac.p.m4a"
+                    }
+                  ],
+                  "artistName": "Deftones"
+                },
+                "rank": 1,
+                "featured_album": true
+              },
+              "groupRank": 1,
+              "winner": null
+            },
+            "song2": {
+              "song": {
+                "id": "1099846738",
+                "type": "songs",
+                "href": "/v1/catalog/us/songs/1099846738",
+                "attributes": {
+                  "albumName": "Diamond Eyes (Deluxe Edition)",
+                  "genreNames": [
+                    "Hard Rock",
+                    "Music",
+                    "Rock",
+                    "Metal"
+                  ],
+                  "trackNumber": 11,
+                  "releaseDate": "2010-05-04",
+                  "durationInMillis": 228973,
+                  "isrc": "USRE11600069",
+                  "artwork": {
+                    "width": 1425,
+                    "height": 1425,
+                    "url": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/cd/bd/cb/cdbdcbfd-0b6e-93ff-61f7-04c9d5da7368/093624919759.jpg/{w}x{h}bb.jpg",
+                    "bgColor": "c3c5c0",
+                    "textColor1": "000000",
+                    "textColor2": "272a27",
+                    "textColor3": "272726",
+                    "textColor4": "464945"
+                  },
+                  "composerName": "Abe Cunningham, Chino Moreno, Frank Delgado, Sergio Vega & Stephen Carpenter",
+                  "url": "https://music.apple.com/us/album/this-place-is-death/1099846321?i=1099846738",
+                  "playParams": {
+                    "id": "1099846738",
+                    "kind": "song"
+                  },
+                  "discNumber": 1,
+                  "isAppleDigitalMaster": true,
+                  "hasLyrics": true,
+                  "name": "This Place Is Death",
+                  "previews": [
+                    {
+                      "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/ea/ca/ab/eacaab11-68a4-ac00-4a1e-4a1993dcae3f/mzaf_5677688251454320807.plus.aac.p.m4a"
+                    }
+                  ],
+                  "artistName": "Deftones"
+                },
+                "rank": 64,
+                "featured_album": false
+              },
+              "groupRank": 64,
+              "winner": null
+            }
+          }
+        },
+        {
+          "matchupId": "10998508471099846383",
+          "round": 1,
+          "attributes": {
+            "complete": true,
+            "song1": {
+              "song": {
+                "id": "1099850847",
+                "type": "songs",
+                "href": "/v1/catalog/us/songs/1099850847",
+                "attributes": {
+                  "albumName": "Saturday Night Wrist (Bonus Track Version)",
+                  "genreNames": [
+                    "Hard Rock",
+                    "Music",
+                    "Rock",
+                    "Metal",
+                    "Adult Alternative"
+                  ],
+                  "trackNumber": 4,
+                  "releaseDate": "2006-10-31",
+                  "durationInMillis": 317760,
+                  "isrc": "USRE11600120",
+                  "artwork": {
+                    "width": 1425,
+                    "height": 1425,
+                    "url": "https://is1-ssl.mzstatic.com/image/thumb/Music49/v4/2e/12/19/2e121951-b104-af73-1952-93b3aaccabcf/093624919773.jpg/{w}x{h}bb.jpg",
+                    "bgColor": "0a1616",
+                    "textColor1": "d1d7ae",
+                    "textColor2": "ceaa84",
+                    "textColor3": "a9b190",
+                    "textColor4": "a78c6e"
+                  },
+                  "composerName": "Abe Cunningham, Chi Cheng, Chino Moreno, Frank Delgado & Stephen Carpenter",
+                  "url": "https://music.apple.com/us/album/cherry-waves/1099850829?i=1099850847",
+                  "playParams": {
+                    "id": "1099850847",
+                    "kind": "song"
+                  },
+                  "discNumber": 1,
+                  "hasLyrics": true,
+                  "isAppleDigitalMaster": true,
+                  "name": "Cherry Waves",
+                  "previews": [
+                    {
+                      "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/96/00/78/96007858-df73-45e2-1d0e-c706215cb475/mzaf_13148860887679123524.plus.aac.p.m4a"
+                    }
+                  ],
+                  "artistName": "Deftones"
+                },
+                "rank": 5,
+                "featured_album": false
+              },
+              "groupRank": 5,
+              "winner": null
+            },
+            "song2": {
+              "song": {
+                "id": "1099846383",
+                "type": "songs",
+                "href": "/v1/catalog/us/songs/1099846383",
+                "attributes": {
+                  "albumName": "Diamond Eyes (Deluxe Edition)",
+                  "genreNames": [
+                    "Hard Rock",
+                    "Music",
+                    "Rock",
+                    "Metal"
+                  ],
+                  "trackNumber": 3,
+                  "releaseDate": "2010-05-04",
+                  "durationInMillis": 145667,
+                  "isrc": "USRE11600061",
+                  "artwork": {
+                    "width": 1425,
+                    "height": 1425,
+                    "url": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/cd/bd/cb/cdbdcbfd-0b6e-93ff-61f7-04c9d5da7368/093624919759.jpg/{w}x{h}bb.jpg",
+                    "bgColor": "c3c5c0",
+                    "textColor1": "000000",
+                    "textColor2": "272a27",
+                    "textColor3": "272726",
+                    "textColor4": "464945"
+                  },
+                  "composerName": "Abe Cunningham, Chino Moreno, Frank Delgado, Sergio Vega & Stephen Carpenter",
+                  "url": "https://music.apple.com/us/album/cmnd-ctrl/1099846321?i=1099846383",
+                  "playParams": {
+                    "id": "1099846383",
+                    "kind": "song"
+                  },
+                  "discNumber": 1,
+                  "hasLyrics": true,
+                  "isAppleDigitalMaster": true,
+                  "name": "CMND/CTRL",
+                  "previews": [
+                    {
+                      "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/92/e9/3d/92e93da9-f926-73e9-e2f3-d48a244b5bc8/mzaf_16712327227940171187.plus.aac.p.m4a"
+                    }
+                  ],
+                  "artistName": "Deftones"
+                },
+                "rank": 60,
+                "featured_album": false
+              },
+              "groupRank": 60,
+              "winner": null
+            }
+          }
+        },
+        {
+          "matchupId": "1099848810567302385",
+          "round": 1,
+          "attributes": {
+            "complete": true,
+            "song1": {
+              "song": {
+                "id": "1099848810",
+                "type": "songs",
+                "href": "/v1/catalog/us/songs/1099848810",
+                "attributes": {
+                  "albumName": "White Pony",
+                  "genreNames": [
+                    "Hard Rock",
+                    "Music",
+                    "Rock",
+                    "Alternative",
+                    "Adult Alternative",
+                    "Metal"
+                  ],
+                  "trackNumber": 10,
+                  "releaseDate": "2000-06-20",
+                  "durationInMillis": 368733,
+                  "isrc": "USRE11600103",
+                  "artwork": {
+                    "width": 1425,
+                    "height": 1425,
+                    "url": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/96/51/57/96515710-cf91-0663-6f5a-942acf6ea31b/093624919797.jpg/{w}x{h}bb.jpg",
+                    "bgColor": "3a4784",
+                    "textColor1": "ffffff",
+                    "textColor2": "ffffff",
+                    "textColor3": "d7dae6",
+                    "textColor4": "d7dae6"
+                  },
+                  "composerName": "Abe Cunningham, Chi Cheng, Chino Moreno, Frank Delgado, Maynard James Keenan & Stephen Carpenter",
+                  "url": "https://music.apple.com/us/album/passenger/1099848709?i=1099848810",
+                  "playParams": {
+                    "id": "1099848810",
+                    "kind": "song"
+                  },
+                  "discNumber": 1,
+                  "isAppleDigitalMaster": true,
+                  "hasLyrics": true,
+                  "name": "Passenger",
+                  "previews": [
+                    {
+                      "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/29/79/ff/2979ff44-170a-1355-d8f1-c8ab4b525d68/mzaf_645433437228849518.plus.aac.p.m4a"
+                    }
+                  ],
+                  "artistName": "Deftones"
+                },
+                "rank": 9,
+                "featured_album": true
+              },
+              "groupRank": 9,
+              "winner": null
+            },
+            "song2": {
+              "song": {
+                "id": "567302385",
+                "type": "songs",
+                "href": "/v1/catalog/us/songs/567302385",
+                "attributes": {
+                  "albumName": "Koi No Yokan",
+                  "genreNames": [
+                    "Hard Rock",
+                    "Music",
+                    "Rock",
+                    "Metal"
+                  ],
+                  "trackNumber": 8,
+                  "releaseDate": "2012-11-12",
+                  "durationInMillis": 281395,
+                  "isrc": "USRE11200423",
+                  "artwork": {
+                    "width": 1425,
+                    "height": 1425,
+                    "url": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/0f/b0/5a/0fb05adc-3847-4e07-3fe7-3cf9eb898e4d/093624946793.jpg/{w}x{h}bb.jpg",
+                    "bgColor": "000000",
+                    "textColor1": "f95020",
+                    "textColor2": "ec541a",
+                    "textColor3": "c7401a",
+                    "textColor4": "bc4315"
+                  },
+                  "composerName": "Deftones, Abe Cunningham, Chi Cheng, Chino Moreno, Frank Delgado & Stephen Carpenter",
+                  "url": "https://music.apple.com/us/album/gauze/567302377?i=567302385",
+                  "playParams": {
+                    "id": "567302385",
+                    "kind": "song"
+                  },
+                  "discNumber": 1,
+                  "isAppleDigitalMaster": true,
+                  "hasLyrics": true,
+                  "name": "Gauze",
+                  "previews": [
+                    {
+                      "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/01/c7/5b/01c75b5d-2117-20c5-677c-ae000c32c19c/mzaf_16591627305142277320.plus.aac.p.m4a"
+                    }
+                  ],
+                  "artistName": "Deftones"
+                },
+                "rank": 56,
+                "featured_album": false
+              },
+              "groupRank": 56,
+              "winner": null
+            }
+          }
+        },
+        {
+          "matchupId": "10998508421078767513",
+          "round": 1,
+          "attributes": {
+            "complete": true,
+            "song1": {
+              "song": {
+                "id": "1099850842",
+                "type": "songs",
+                "href": "/v1/catalog/us/songs/1099850842",
+                "attributes": {
+                  "albumName": "Saturday Night Wrist (Bonus Track Version)",
+                  "genreNames": [
+                    "Hard Rock",
+                    "Music",
+                    "Rock",
+                    "Metal",
+                    "Adult Alternative"
+                  ],
+                  "trackNumber": 1,
+                  "releaseDate": "2006-10-31",
+                  "durationInMillis": 249373,
+                  "isrc": "USRE11600117",
+                  "artwork": {
+                    "width": 1425,
+                    "height": 1425,
+                    "url": "https://is1-ssl.mzstatic.com/image/thumb/Music49/v4/2e/12/19/2e121951-b104-af73-1952-93b3aaccabcf/093624919773.jpg/{w}x{h}bb.jpg",
+                    "bgColor": "0a1616",
+                    "textColor1": "d1d7ae",
+                    "textColor2": "ceaa84",
+                    "textColor3": "a9b190",
+                    "textColor4": "a78c6e"
+                  },
+                  "composerName": "Abe Cunningham, Chi Cheng, Chino Moreno, Frank Delgado & Stephen Carpenter",
+                  "url": "https://music.apple.com/us/album/hole-in-the-earth/1099850829?i=1099850842",
+                  "playParams": {
+                    "id": "1099850842",
+                    "kind": "song"
+                  },
+                  "discNumber": 1,
+                  "isAppleDigitalMaster": true,
+                  "hasLyrics": true,
+                  "name": "Hole In the Earth",
+                  "previews": [
+                    {
+                      "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/8b/cd/d8/8bcdd84a-51f2-ac71-61e1-be65697380d8/mzaf_6539645214305473728.plus.aac.p.m4a"
+                    }
+                  ],
+                  "artistName": "Deftones"
+                },
+                "rank": 13,
+                "featured_album": false
+              },
+              "groupRank": 13,
+              "winner": null
+            },
+            "song2": {
+              "song": {
+                "id": "1078767513",
+                "type": "songs",
+                "href": "/v1/catalog/us/songs/1078767513",
+                "attributes": {
+                  "albumName": "Gore",
+                  "genreNames": [
+                    "Hard Rock",
+                    "Music",
+                    "Rock",
+                    "Metal",
+                    "Alternative"
+                  ],
+                  "trackNumber": 2,
+                  "releaseDate": "2016-04-08",
+                  "durationInMillis": 245827,
+                  "isrc": "USRE11500591",
+                  "artwork": {
+                    "width": 1425,
+                    "height": 1425,
+                    "url": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/e0/e9/89/e0e9890e-19a5-b959-e0b2-2010d4425ad2/093624926467.jpg/{w}x{h}bb.jpg",
+                    "bgColor": "a7adb9",
+                    "textColor1": "080715",
+                    "textColor2": "2f1932",
+                    "textColor3": "282836",
+                    "textColor4": "47374d"
+                  },
+                  "composerName": "Abe Cunningham, Chino Moreno, Frank Delgado, Sergio Vega & Stephen Carpenter",
+                  "url": "https://music.apple.com/us/album/acid-hologram/1078767494?i=1078767513",
+                  "playParams": {
+                    "id": "1078767513",
+                    "kind": "song"
+                  },
+                  "discNumber": 1,
+                  "hasLyrics": true,
+                  "isAppleDigitalMaster": true,
+                  "name": "Acid Hologram",
+                  "previews": [
+                    {
+                      "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/9f/7c/bd/9f7cbd40-a91e-f7d2-d06c-82d34d86fc61/mzaf_1016771502598024485.plus.aac.p.m4a"
+                    }
+                  ],
+                  "artistName": "Deftones"
+                },
+                "rank": 52,
+                "featured_album": false
+              },
+              "groupRank": 52,
+              "winner": null
+            }
+          }
+        },
+        {
+          "matchupId": "10998409261099844629",
+          "round": 1,
+          "attributes": {
+            "complete": true,
+            "song1": {
+              "song": {
+                "id": "1099840926",
+                "type": "songs",
+                "href": "/v1/catalog/us/songs/1099840926",
+                "attributes": {
+                  "albumName": "Adrenaline",
+                  "genreNames": [
+                    "Hard Rock",
+                    "Music",
+                    "Rock",
+                    "Adult Alternative",
+                    "Alternative",
+                    "Metal"
+                  ],
+                  "trackNumber": 7,
+                  "releaseDate": "1995-10-03",
+                  "durationInMillis": 223960,
+                  "isrc": "USRE11600079",
+                  "artwork": {
+                    "width": 1425,
+                    "height": 1425,
+                    "url": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/fd/85/21/fd8521f1-98b0-d74b-6c5a-15a0fcc39e89/093624919810.jpg/{w}x{h}bb.jpg",
+                    "bgColor": "faf1f2",
+                    "textColor1": "000000",
+                    "textColor2": "110d0e",
+                    "textColor3": "323030",
+                    "textColor4": "3f3a3b"
+                  },
+                  "composerName": "Abe Cunningham, Chi Cheng, Chino Moreno & Stephen Carpenter",
+                  "url": "https://music.apple.com/us/album/7-words/1099840917?i=1099840926",
+                  "playParams": {
+                    "id": "1099840926",
+                    "kind": "song"
+                  },
+                  "discNumber": 1,
+                  "hasLyrics": true,
+                  "isAppleDigitalMaster": true,
+                  "name": "7 Words",
+                  "previews": [
+                    {
+                      "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/3b/83/f9/3b83f94f-376c-5800-ab8d-9a18b03a5dfb/mzaf_1122376821592578163.plus.aac.p.m4a"
+                    }
+                  ],
+                  "artistName": "Deftones",
+                  "contentRating": "explicit"
+                },
+                "rank": 17,
+                "featured_album": false
+              },
+              "groupRank": 17,
+              "winner": null
+            },
+            "song2": {
+              "song": {
+                "id": "1099844629",
+                "type": "songs",
+                "href": "/v1/catalog/us/songs/1099844629",
+                "attributes": {
+                  "albumName": "Diamond Eyes",
+                  "genreNames": [
+                    "Hard Rock",
+                    "Music",
+                    "Rock",
+                    "Metal"
+                  ],
+                  "trackNumber": 2,
+                  "releaseDate": "2010-05-04",
+                  "durationInMillis": 212613,
+                  "isrc": "USRE11600060",
+                  "artwork": {
+                    "width": 1425,
+                    "height": 1425,
+                    "url": "https://is1-ssl.mzstatic.com/image/thumb/Music49/v4/b7/4b/2e/b74b2e91-c3a6-2f74-5f3f-f38e9e2b100d/093624919766.jpg/{w}x{h}bb.jpg",
+                    "bgColor": "c3c5c0",
+                    "textColor1": "000000",
+                    "textColor2": "272a27",
+                    "textColor3": "272726",
+                    "textColor4": "464945"
+                  },
+                  "composerName": "Abe Cunningham, Chino Moreno, Frank Delgado, Sergio Vega & Stephen Carpenter",
+                  "url": "https://music.apple.com/us/album/royal/1099844360?i=1099844629",
+                  "playParams": {
+                    "id": "1099844629",
+                    "kind": "song"
+                  },
+                  "discNumber": 1,
+                  "isAppleDigitalMaster": true,
+                  "hasLyrics": true,
+                  "name": "Royal",
+                  "previews": [
+                    {
+                      "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/c6/c3/d1/c6c3d19c-3472-8eef-ebf7-8b972450f3a1/mzaf_17887581573632380611.plus.aac.p.m4a"
+                    }
+                  ],
+                  "artistName": "Deftones"
+                },
+                "rank": 48,
+                "featured_album": false
+              },
+              "groupRank": 48,
+              "winner": null
+            }
+          }
+        },
+        {
+          "matchupId": "10998488071099850860",
+          "round": 1,
+          "attributes": {
+            "complete": true,
+            "song1": {
+              "song": {
+                "id": "1099848807",
+                "type": "songs",
+                "href": "/v1/catalog/us/songs/1099848807",
+                "attributes": {
+                  "albumName": "White Pony",
+                  "genreNames": [
+                    "Hard Rock",
+                    "Music",
+                    "Rock",
+                    "Alternative",
+                    "Adult Alternative",
+                    "Metal"
+                  ],
+                  "trackNumber": 8,
+                  "releaseDate": "2000-06-20",
+                  "durationInMillis": 289253,
+                  "isrc": "USRE11600101",
+                  "artwork": {
+                    "width": 1425,
+                    "height": 1425,
+                    "url": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/96/51/57/96515710-cf91-0663-6f5a-942acf6ea31b/093624919797.jpg/{w}x{h}bb.jpg",
+                    "bgColor": "3a4784",
+                    "textColor1": "ffffff",
+                    "textColor2": "ffffff",
+                    "textColor3": "d7dae6",
+                    "textColor4": "d7dae6"
+                  },
+                  "composerName": "Abe Cunningham, Chi Cheng, Chino Moreno, Frank Delgado & Stephen Carpenter",
+                  "url": "https://music.apple.com/us/album/knife-prty/1099848709?i=1099848807",
+                  "playParams": {
+                    "id": "1099848807",
+                    "kind": "song"
+                  },
+                  "discNumber": 1,
+                  "isAppleDigitalMaster": true,
+                  "hasLyrics": true,
+                  "name": "Knife Prty",
+                  "previews": [
+                    {
+                      "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/88/e4/2b/88e42b3c-e3e6-dd75-8e30-022e0f61207b/mzaf_14468714547686941102.plus.aac.p.m4a"
+                    }
+                  ],
+                  "artistName": "Deftones"
+                },
+                "rank": 21,
+                "featured_album": true
+              },
+              "groupRank": 21,
+              "winner": null
+            },
+            "song2": {
+              "song": {
+                "id": "1099850860",
+                "type": "songs",
+                "href": "/v1/catalog/us/songs/1099850860",
+                "attributes": {
+                  "albumName": "Saturday Night Wrist (Bonus Track Version)",
+                  "genreNames": [
+                    "Hard Rock",
+                    "Music",
+                    "Rock",
+                    "Metal",
+                    "Adult Alternative"
+                  ],
+                  "trackNumber": 11,
+                  "releaseDate": "2006-10-31",
+                  "durationInMillis": 194373,
+                  "isrc": "USRE11600127",
+                  "artwork": {
+                    "width": 1425,
+                    "height": 1425,
+                    "url": "https://is1-ssl.mzstatic.com/image/thumb/Music49/v4/2e/12/19/2e121951-b104-af73-1952-93b3aaccabcf/093624919773.jpg/{w}x{h}bb.jpg",
+                    "bgColor": "0a1616",
+                    "textColor1": "d1d7ae",
+                    "textColor2": "ceaa84",
+                    "textColor3": "a9b190",
+                    "textColor4": "a78c6e"
+                  },
+                  "composerName": "Abe Cunningham, Chi Cheng, Chino Moreno, Frank Delgado & Stephen Carpenter",
+                  "url": "https://music.apple.com/us/album/kimdracula/1099850829?i=1099850860",
+                  "playParams": {
+                    "id": "1099850860",
+                    "kind": "song"
+                  },
+                  "discNumber": 1,
+                  "isAppleDigitalMaster": true,
+                  "hasLyrics": true,
+                  "name": "Kimdracula",
+                  "previews": [
+                    {
+                      "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/e2/fe/19/e2fe1932-83a7-4164-4df2-4ffbfb569d4a/mzaf_11177952036552367946.plus.aac.p.m4a"
+                    }
+                  ],
+                  "artistName": "Deftones"
+                },
+                "rank": 44,
+                "featured_album": false
+              },
+              "groupRank": 44,
+              "winner": null
+            }
+          }
+        },
+        {
+          "matchupId": "10998487921099848815",
+          "round": 1,
+          "attributes": {
+            "complete": true,
+            "song1": {
+              "song": {
+                "id": "1099848792",
+                "type": "songs",
+                "href": "/v1/catalog/us/songs/1099848792",
+                "attributes": {
+                  "albumName": "White Pony",
+                  "genreNames": [
+                    "Hard Rock",
+                    "Music",
+                    "Rock",
+                    "Alternative",
+                    "Adult Alternative",
+                    "Metal"
+                  ],
+                  "trackNumber": 5,
+                  "releaseDate": "2000-06-20",
+                  "durationInMillis": 268107,
+                  "isrc": "USRE11600098",
+                  "artwork": {
+                    "width": 1425,
+                    "height": 1425,
+                    "url": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/96/51/57/96515710-cf91-0663-6f5a-942acf6ea31b/093624919797.jpg/{w}x{h}bb.jpg",
+                    "bgColor": "3a4784",
+                    "textColor1": "ffffff",
+                    "textColor2": "ffffff",
+                    "textColor3": "d7dae6",
+                    "textColor4": "d7dae6"
+                  },
+                  "composerName": "Abe Cunningham, Chi Cheng, Chino Moreno, Frank Delgado & Stephen Carpenter",
+                  "url": "https://music.apple.com/us/album/rx-queen/1099848709?i=1099848792",
+                  "playParams": {
+                    "id": "1099848792",
+                    "kind": "song"
+                  },
+                  "discNumber": 1,
+                  "hasLyrics": true,
+                  "isAppleDigitalMaster": true,
+                  "name": "Rx Queen",
+                  "previews": [
+                    {
+                      "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/8e/2d/94/8e2d9421-a3ba-afd0-5f8c-c8b8afb80d3e/mzaf_14886153386890572401.plus.aac.p.m4a"
+                    }
+                  ],
+                  "artistName": "Deftones"
+                },
+                "rank": 25,
+                "featured_album": true
+              },
+              "groupRank": 25,
+              "winner": null
+            },
+            "song2": {
+              "song": {
+                "id": "1099848815",
+                "type": "songs",
+                "href": "/v1/catalog/us/songs/1099848815",
+                "attributes": {
+                  "albumName": "White Pony",
+                  "genreNames": [
+                    "Hard Rock",
+                    "Music",
+                    "Rock",
+                    "Alternative",
+                    "Adult Alternative",
+                    "Metal"
+                  ],
+                  "trackNumber": 12,
+                  "releaseDate": "2000-06-20",
+                  "durationInMillis": 453384,
+                  "isrc": "USRE11600105",
+                  "artwork": {
+                    "width": 1425,
+                    "height": 1425,
+                    "url": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/96/51/57/96515710-cf91-0663-6f5a-942acf6ea31b/093624919797.jpg/{w}x{h}bb.jpg",
+                    "bgColor": "3a4784",
+                    "textColor1": "ffffff",
+                    "textColor2": "ffffff",
+                    "textColor3": "d7dae6",
+                    "textColor4": "d7dae6"
+                  },
+                  "composerName": "Abe Cunningham, Chi Cheng, Chino Moreno, Frank Delgado & Stephen Carpenter",
+                  "url": "https://music.apple.com/us/album/pink-maggit/1099848709?i=1099848815",
+                  "playParams": {
+                    "id": "1099848815",
+                    "kind": "song"
+                  },
+                  "discNumber": 1,
+                  "isAppleDigitalMaster": true,
+                  "hasLyrics": true,
+                  "name": "Pink Maggit",
+                  "previews": [
+                    {
+                      "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/8a/63/cc/8a63cce7-98bf-59f0-6540-231a92139dfc/mzaf_12854664799301703623.plus.aac.p.m4a"
+                    }
+                  ],
+                  "artistName": "Deftones"
+                },
+                "rank": 40,
+                "featured_album": true
+              },
+              "groupRank": 40,
+              "winner": null
+            }
+          }
+        },
+        {
+          "matchupId": "10998487221099846492",
+          "round": 1,
+          "attributes": {
+            "complete": true,
+            "song1": {
+              "song": {
+                "id": "1099848722",
+                "type": "songs",
+                "href": "/v1/catalog/us/songs/1099848722",
+                "attributes": {
+                  "albumName": "White Pony",
+                  "genreNames": [
+                    "Hard Rock",
+                    "Music",
+                    "Rock",
+                    "Alternative",
+                    "Adult Alternative",
+                    "Metal"
+                  ],
+                  "trackNumber": 2,
+                  "releaseDate": "2000-06-20",
+                  "durationInMillis": 189827,
+                  "isrc": "USRE11600095",
+                  "artwork": {
+                    "width": 1425,
+                    "height": 1425,
+                    "url": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/96/51/57/96515710-cf91-0663-6f5a-942acf6ea31b/093624919797.jpg/{w}x{h}bb.jpg",
+                    "bgColor": "3a4784",
+                    "textColor1": "ffffff",
+                    "textColor2": "ffffff",
+                    "textColor3": "d7dae6",
+                    "textColor4": "d7dae6"
+                  },
+                  "composerName": "Abe Cunningham, Chi Cheng, Chino Moreno, Frank Delgado & Stephen Carpenter",
+                  "url": "https://music.apple.com/us/album/feiticeira/1099848709?i=1099848722",
+                  "playParams": {
+                    "id": "1099848722",
+                    "kind": "song"
+                  },
+                  "discNumber": 1,
+                  "hasLyrics": true,
+                  "isAppleDigitalMaster": true,
+                  "name": "Feiticeira",
+                  "previews": [
+                    {
+                      "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/e1/1b/42/e11b4217-2ae1-0811-720c-ad1916d99dec/mzaf_6020061773600661322.plus.aac.p.m4a"
+                    }
+                  ],
+                  "contentRating": "explicit",
+                  "artistName": "Deftones"
+                },
+                "rank": 29,
+                "featured_album": true
+              },
+              "groupRank": 29,
+              "winner": null
+            },
+            "song2": {
+              "song": {
+                "id": "1099846492",
+                "type": "songs",
+                "href": "/v1/catalog/us/songs/1099846492",
+                "attributes": {
+                  "albumName": "Diamond Eyes (Deluxe Edition)",
+                  "genreNames": [
+                    "Hard Rock",
+                    "Music",
+                    "Rock",
+                    "Metal"
+                  ],
+                  "trackNumber": 7,
+                  "releaseDate": "2010-05-04",
+                  "durationInMillis": 254065,
+                  "isrc": "USRE11600065",
+                  "artwork": {
+                    "width": 1425,
+                    "height": 1425,
+                    "url": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/cd/bd/cb/cdbdcbfd-0b6e-93ff-61f7-04c9d5da7368/093624919759.jpg/{w}x{h}bb.jpg",
+                    "bgColor": "c3c5c0",
+                    "textColor1": "000000",
+                    "textColor2": "272a27",
+                    "textColor3": "272726",
+                    "textColor4": "464945"
+                  },
+                  "composerName": "Abe Cunningham, Chino Moreno, Frank Delgado, Sergio Vega & Stephen Carpenter",
+                  "url": "https://music.apple.com/us/album/rocket-skates/1099846321?i=1099846492",
+                  "playParams": {
+                    "id": "1099846492",
+                    "kind": "song"
+                  },
+                  "discNumber": 1,
+                  "isAppleDigitalMaster": true,
+                  "hasLyrics": true,
+                  "name": "Rocket Skates",
+                  "previews": [
+                    {
+                      "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/27/93/bd/2793bd8f-ce31-baf7-1700-1dfd6bd13659/mzaf_10602845690243381274.plus.aac.p.m4a"
+                    }
+                  ],
+                  "artistName": "Deftones",
+                  "contentRating": "explicit"
+                },
+                "rank": 36,
+                "featured_album": false
+              },
+              "groupRank": 36,
+              "winner": null
+            }
+          }
+        }
+      ],
+      "progress": 1
+    },
+    "round2": {
+      "progress": 1,
+      "roundMatchups": [
+        {
+          "matchupId": "10998488111099846383",
+          "round": 2,
+          "attributes": {
+            "complete": true,
+            "song1": {
+              "groupRank": 1,
+              "winner": null
+            },
+            "song2": {
+              "groupRank": 60,
+              "winner": null
+            }
+          }
+        },
+        {
+          "matchupId": "5673023851099850842",
+          "round": 2,
+          "attributes": {
+            "complete": true,
+            "song1": {
+              "groupRank": 56,
+              "winner": null
+            },
+            "song2": {
+              "groupRank": 13,
+              "winner": null
+            }
+          }
+        },
+        {
+          "matchupId": "10998409261099848807",
+          "round": 2,
+          "attributes": {
+            "complete": true,
+            "song1": {
+              "groupRank": 17,
+              "winner": null
+            },
+            "song2": {
+              "groupRank": 21,
+              "winner": null
+            }
+          }
+        },
+        {
+          "matchupId": "10998487921099848722",
+          "round": 2,
+          "attributes": {
+            "complete": true,
+            "song1": {
+              "groupRank": 25,
+              "winner": null
+            },
+            "song2": {
+              "groupRank": 29,
+              "winner": null
+            }
+          }
+        }
+      ]
+    },
+    "round3": {
+      "progress": 1,
+      "roundMatchups": [
+        {
+          "matchupId": "1099848811567302385",
+          "round": 3,
+          "attributes": {
+            "complete": true,
+            "song1": {
+              "groupRank": 1,
+              "winner": null
+            },
+            "song2": {
+              "groupRank": 56,
+              "winner": null
+            }
+          }
+        },
+        {
+          "matchupId": "10998409261099848792",
+          "round": 3,
+          "attributes": {
+            "complete": true,
+            "song1": {
+              "groupRank": 17,
+              "winner": null
+            },
+            "song2": {
+              "groupRank": 25,
+              "winner": null
+            }
+          }
+        }
+      ]
+    },
+    "round4": {
+      "progress": 1,
+      "roundMatchups": [
+        {
+          "matchupId": "10998488111099840926",
+          "round": 4,
+          "attributes": {
+            "complete": true,
+            "song1": {
+              "groupRank": 1,
+              "winner": null
+            },
+            "song2": {
+              "groupRank": 17,
+              "winner": null
+            }
+          }
+        }
+      ]
+    }
+  },
+  "group2": {
+    "round1": {
+      "roundMatchups": [
+        {
+          "matchupId": "10998433341078767514",
+          "round": 1,
+          "attributes": {
+            "complete": true,
+            "song1": {
+              "song": {
+                "id": "1099843334",
+                "type": "songs",
+                "href": "/v1/catalog/us/songs/1099843334",
+                "attributes": {
+                  "albumName": "Around the Fur",
+                  "genreNames": [
+                    "Hard Rock",
+                    "Music",
+                    "Rock"
+                  ],
+                  "trackNumber": 6,
+                  "releaseDate": "1997-10-28",
+                  "durationInMillis": 308200,
+                  "isrc": "USRE11600089",
+                  "artwork": {
+                    "width": 1425,
+                    "height": 1425,
+                    "url": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/27/cb/b4/27cbb40e-f8c6-dede-9c69-62089a873fa9/093624919803.jpg/{w}x{h}bb.jpg",
+                    "bgColor": "060208",
+                    "textColor1": "f0aa8c",
+                    "textColor2": "da7e77",
+                    "textColor3": "c18972",
+                    "textColor4": "b06561"
+                  },
+                  "composerName": "Abe Cunningham, Chi Cheng, Chino Moreno & Stephen Carpenter",
+                  "url": "https://music.apple.com/us/album/be-quiet-and-drive-far-away/1099843198?i=1099843334",
+                  "playParams": {
+                    "id": "1099843334",
+                    "kind": "song"
+                  },
+                  "discNumber": 1,
+                  "isAppleDigitalMaster": true,
+                  "hasLyrics": true,
+                  "name": "Be Quiet and Drive (Far Away)",
+                  "previews": [
+                    {
+                      "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/72/71/10/72711097-4335-8ad6-a0f6-0e0588417b0c/mzaf_6411491445007836545.plus.aac.p.m4a"
+                    }
+                  ],
+                  "artistName": "Deftones"
+                },
+                "rank": 2,
+                "featured_album": true
+              },
+              "groupRank": 2,
+              "winner": null
+            },
+            "song2": {
+              "song": {
+                "id": "1078767514",
+                "type": "songs",
+                "href": "/v1/catalog/us/songs/1078767514",
+                "attributes": {
+                  "albumName": "Gore",
+                  "genreNames": [
+                    "Hard Rock",
+                    "Music",
+                    "Rock"
+                  ],
+                  "trackNumber": 3,
+                  "releaseDate": "2016-04-08",
+                  "durationInMillis": 266907,
+                  "isrc": "USRE11500592",
+                  "artwork": {
+                    "width": 1425,
+                    "height": 1425,
+                    "url": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/e0/e9/89/e0e9890e-19a5-b959-e0b2-2010d4425ad2/093624926467.jpg/{w}x{h}bb.jpg",
+                    "bgColor": "a7adb9",
+                    "textColor1": "080715",
+                    "textColor2": "2f1932",
+                    "textColor3": "282836",
+                    "textColor4": "47374d"
+                  },
+                  "composerName": "Abe Cunningham, Chino Moreno, Frank Delgado, Sergio Vega & Stephen Carpenter",
+                  "url": "https://music.apple.com/us/album/doomed-user/1078767494?i=1078767514",
+                  "playParams": {
+                    "id": "1078767514",
+                    "kind": "song"
+                  },
+                  "discNumber": 1,
+                  "isAppleDigitalMaster": true,
+                  "hasLyrics": true,
+                  "name": "Doomed User",
+                  "previews": [
+                    {
+                      "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/04/3f/27/043f2721-15fd-024d-ce20-defd6ecb4f9b/mzaf_15424925237784514389.plus.aac.p.m4a"
+                    }
+                  ],
+                  "artistName": "Deftones",
+                  "contentRating": "explicit"
+                },
+                "rank": 63,
+                "featured_album": false
+              },
+              "groupRank": 63,
+              "winner": null
+            }
+          }
+        },
+        {
+          "matchupId": "567302386339542521",
+          "round": 1,
+          "attributes": {
+            "complete": true,
+            "song1": {
+              "song": {
+                "id": "567302386",
+                "type": "songs",
+                "href": "/v1/catalog/us/songs/567302386",
+                "attributes": {
+                  "albumName": "Koi No Yokan",
+                  "genreNames": [
+                    "Hard Rock",
+                    "Music",
+                    "Rock",
+                    "Metal"
+                  ],
+                  "trackNumber": 9,
+                  "releaseDate": "2012-11-12",
+                  "durationInMillis": 413349,
+                  "isrc": "USRE11200424",
+                  "artwork": {
+                    "width": 1425,
+                    "height": 1425,
+                    "url": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/0f/b0/5a/0fb05adc-3847-4e07-3fe7-3cf9eb898e4d/093624946793.jpg/{w}x{h}bb.jpg",
+                    "bgColor": "000000",
+                    "textColor1": "f95020",
+                    "textColor2": "ec541a",
+                    "textColor3": "c7401a",
+                    "textColor4": "bc4315"
+                  },
+                  "composerName": "Deftones, Abe Cunningham, Chi Cheng, Chino Moreno, Frank Delgado & Stephen Carpenter",
+                  "url": "https://music.apple.com/us/album/rosemary/567302377?i=567302386",
+                  "playParams": {
+                    "id": "567302386",
+                    "kind": "song"
+                  },
+                  "discNumber": 1,
+                  "hasLyrics": true,
+                  "isAppleDigitalMaster": true,
+                  "name": "Rosemary",
+                  "previews": [
+                    {
+                      "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/59/f7/6c/59f76ca6-dd40-3d6c-252b-069a34483597/mzaf_8460700891186174835.plus.aac.p.m4a"
+                    }
+                  ],
+                  "artistName": "Deftones"
+                },
+                "rank": 6,
+                "featured_album": false
+              },
+              "groupRank": 6,
+              "winner": null
+            },
+            "song2": {
+              "song": {
+                "id": "339542521",
+                "type": "songs",
+                "href": "/v1/catalog/us/songs/339542521",
+                "attributes": {
+                  "albumName": "B-Sides & Rarities (Bonus Track Version)",
+                  "genreNames": [
+                    "Hard Rock",
+                    "Music",
+                    "Rock",
+                    "Adult Alternative",
+                    "Metal",
+                    "Alternative"
+                  ],
+                  "trackNumber": 3,
+                  "releaseDate": "2005-10-04",
+                  "durationInMillis": 316238,
+                  "isrc": "USMV20500169",
+                  "artwork": {
+                    "width": 1417,
+                    "height": 1417,
+                    "url": "https://is1-ssl.mzstatic.com/image/thumb/Music/1c/ae/01/mzi.vqzmnvxr.jpg/{w}x{h}bb.jpg",
+                    "bgColor": "000000",
+                    "textColor1": "f8efcf",
+                    "textColor2": "d1b46a",
+                    "textColor3": "c6bfa5",
+                    "textColor4": "a79054"
+                  },
+                  "composerName": "Abe Cunningham, Chi Cheng, Chino Moreno, Frank Delgado & Stephen Carpenter",
+                  "url": "https://music.apple.com/us/album/change-in-the-house-of-flies-acoustic-version/339542329?i=339542521",
+                  "playParams": {
+                    "id": "339542521",
+                    "kind": "song"
+                  },
+                  "discNumber": 1,
+                  "isAppleDigitalMaster": false,
+                  "hasLyrics": true,
+                  "name": "Change (In the House of Flies) [Acoustic Version]",
+                  "previews": [
+                    {
+                      "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/01/dc/55/01dc552c-20df-2033-89ca-455df6b18be2/mzaf_2430206781173713736.plus.aac.p.m4a"
+                    }
+                  ],
+                  "artistName": "Deftones"
+                },
+                "rank": 59,
+                "featured_album": false
+              },
+              "groupRank": 59,
+              "winner": null
+            }
+          }
+        },
+        {
+          "matchupId": "10998432431099841638",
+          "round": 1,
+          "attributes": {
+            "complete": true,
+            "song1": {
+              "song": {
+                "id": "1099843243",
+                "type": "songs",
+                "href": "/v1/catalog/us/songs/1099843243",
+                "attributes": {
+                  "albumName": "Around the Fur",
+                  "genreNames": [
+                    "Hard Rock",
+                    "Music",
+                    "Rock"
+                  ],
+                  "trackNumber": 3,
+                  "releaseDate": "1997-10-28",
+                  "durationInMillis": 225347,
+                  "isrc": "USRE11600086",
+                  "artwork": {
+                    "width": 1425,
+                    "height": 1425,
+                    "url": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/27/cb/b4/27cbb40e-f8c6-dede-9c69-62089a873fa9/093624919803.jpg/{w}x{h}bb.jpg",
+                    "bgColor": "060208",
+                    "textColor1": "f0aa8c",
+                    "textColor2": "da7e77",
+                    "textColor3": "c18972",
+                    "textColor4": "b06561"
+                  },
+                  "composerName": "Abe Cunningham, Chi Cheng, Chino Moreno & Stephen Carpenter",
+                  "url": "https://music.apple.com/us/album/mascara/1099843198?i=1099843243",
+                  "playParams": {
+                    "id": "1099843243",
+                    "kind": "song"
+                  },
+                  "discNumber": 1,
+                  "isAppleDigitalMaster": true,
+                  "hasLyrics": true,
+                  "name": "Mascara",
+                  "previews": [
+                    {
+                      "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/ad/8d/52/ad8d52b1-99d4-db94-72fb-ee0486da911c/mzaf_6119625334625771845.plus.aac.p.m4a"
+                    }
+                  ],
+                  "artistName": "Deftones"
+                },
+                "rank": 10,
+                "featured_album": true
+              },
+              "groupRank": 10,
+              "winner": null
+            },
+            "song2": {
+              "song": {
+                "id": "1099841638",
+                "type": "songs",
+                "href": "/v1/catalog/us/songs/1099841638",
+                "attributes": {
+                  "albumName": "Covers",
+                  "genreNames": [
+                    "Hard Rock",
+                    "Music",
+                    "Rock",
+                    "Metal",
+                    "Alternative"
+                  ],
+                  "trackNumber": 9,
+                  "releaseDate": "2005-10-04",
+                  "durationInMillis": 324253,
+                  "isrc": "USMV20500176",
+                  "artwork": {
+                    "width": 1425,
+                    "height": 1425,
+                    "url": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/c7/c9/92/c7c99256-cb22-ed37-c7ca-2f0d2800bcb8/093624919735.jpg/{w}x{h}bb.jpg",
+                    "bgColor": "9b9794",
+                    "textColor1": "090808",
+                    "textColor2": "201e1e",
+                    "textColor3": "262424",
+                    "textColor4": "393635"
+                  },
+                  "composerName": "Andy Taylor, John Taylor, Nick Rhodes, Roger Taylor & Simon Le Bon",
+                  "url": "https://music.apple.com/us/album/the-chauffeur/1099841342?i=1099841638",
+                  "playParams": {
+                    "id": "1099841638",
+                    "kind": "song"
+                  },
+                  "discNumber": 1,
+                  "hasLyrics": true,
+                  "isAppleDigitalMaster": false,
+                  "name": "The Chauffeur",
+                  "previews": [
+                    {
+                      "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/7f/c7/6f/7fc76f0f-cc3f-f42f-bc96-c6335820b577/mzaf_1578374249541163407.plus.aac.p.m4a"
+                    }
+                  ],
+                  "artistName": "Deftones"
+                },
+                "rank": 55,
+                "featured_album": false
+              },
+              "groupRank": 55,
+              "winner": null
+            }
+          }
+        },
+        {
+          "matchupId": "10998409191099846490",
+          "round": 1,
+          "attributes": {
+            "complete": true,
+            "song1": {
+              "song": {
+                "id": "1099840919",
+                "type": "songs",
+                "href": "/v1/catalog/us/songs/1099840919",
+                "attributes": {
+                  "albumName": "Adrenaline",
+                  "genreNames": [
+                    "Hard Rock",
+                    "Music",
+                    "Rock",
+                    "Adult Alternative",
+                    "Alternative",
+                    "Metal"
+                  ],
+                  "trackNumber": 1,
+                  "releaseDate": "1995-10-03",
+                  "durationInMillis": 246027,
+                  "isrc": "USRE11600073",
+                  "artwork": {
+                    "width": 1425,
+                    "height": 1425,
+                    "url": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/fd/85/21/fd8521f1-98b0-d74b-6c5a-15a0fcc39e89/093624919810.jpg/{w}x{h}bb.jpg",
+                    "bgColor": "faf1f2",
+                    "textColor1": "000000",
+                    "textColor2": "110d0e",
+                    "textColor3": "323030",
+                    "textColor4": "3f3a3b"
+                  },
+                  "composerName": "Abe Cunningham, Chi Cheng, Chino Moreno & Stephen Carpenter",
+                  "url": "https://music.apple.com/us/album/bored/1099840917?i=1099840919",
+                  "playParams": {
+                    "id": "1099840919",
+                    "kind": "song"
+                  },
+                  "discNumber": 1,
+                  "isAppleDigitalMaster": true,
+                  "hasLyrics": true,
+                  "name": "Bored",
+                  "previews": [
+                    {
+                      "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/27/9c/cb/279ccb0e-3286-feb9-a598-26238218b872/mzaf_11480029527168153599.plus.aac.p.m4a"
+                    }
+                  ],
+                  "artistName": "Deftones"
+                },
+                "rank": 14,
+                "featured_album": false
+              },
+              "groupRank": 14,
+              "winner": null
+            },
+            "song2": {
+              "song": {
+                "id": "1099846490",
+                "type": "songs",
+                "href": "/v1/catalog/us/songs/1099846490",
+                "attributes": {
+                  "albumName": "Diamond Eyes (Deluxe Edition)",
+                  "genreNames": [
+                    "Hard Rock",
+                    "Music",
+                    "Rock",
+                    "Metal"
+                  ],
+                  "trackNumber": 6,
+                  "releaseDate": "2010-05-04",
+                  "durationInMillis": 216573,
+                  "isrc": "USRE11600064",
+                  "artwork": {
+                    "width": 1425,
+                    "height": 1425,
+                    "url": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/cd/bd/cb/cdbdcbfd-0b6e-93ff-61f7-04c9d5da7368/093624919759.jpg/{w}x{h}bb.jpg",
+                    "bgColor": "c3c5c0",
+                    "textColor1": "000000",
+                    "textColor2": "272a27",
+                    "textColor3": "272726",
+                    "textColor4": "464945"
+                  },
+                  "composerName": "Abe Cunningham, Chino Moreno, Frank Delgado, Sergio Vega & Stephen Carpenter",
+                  "url": "https://music.apple.com/us/album/prince/1099846321?i=1099846490",
+                  "playParams": {
+                    "id": "1099846490",
+                    "kind": "song"
+                  },
+                  "discNumber": 1,
+                  "hasLyrics": true,
+                  "isAppleDigitalMaster": true,
+                  "name": "Prince",
+                  "previews": [
+                    {
+                      "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/53/c1/73/53c173ee-a5aa-9edd-59e5-7a8c1ee8d8b4/mzaf_10003479721053614198.plus.aac.p.m4a"
+                    }
+                  ],
+                  "artistName": "Deftones"
+                },
+                "rank": 51,
+                "featured_album": false
+              },
+              "groupRank": 51,
+              "winner": null
+            }
+          }
+        },
+        {
+          "matchupId": "10998508451099847189",
+          "round": 1,
+          "attributes": {
+            "complete": true,
+            "song1": {
+              "song": {
+                "id": "1099850845",
+                "type": "songs",
+                "href": "/v1/catalog/us/songs/1099850845",
+                "attributes": {
+                  "albumName": "Saturday Night Wrist (Bonus Track Version)",
+                  "genreNames": [
+                    "Hard Rock",
+                    "Music",
+                    "Rock",
+                    "Metal",
+                    "Adult Alternative"
+                  ],
+                  "trackNumber": 3,
+                  "releaseDate": "2006-10-31",
+                  "durationInMillis": 360720,
+                  "isrc": "USRE11600119",
+                  "artwork": {
+                    "width": 1425,
+                    "height": 1425,
+                    "url": "https://is1-ssl.mzstatic.com/image/thumb/Music49/v4/2e/12/19/2e121951-b104-af73-1952-93b3aaccabcf/093624919773.jpg/{w}x{h}bb.jpg",
+                    "bgColor": "0a1616",
+                    "textColor1": "d1d7ae",
+                    "textColor2": "ceaa84",
+                    "textColor3": "a9b190",
+                    "textColor4": "a78c6e"
+                  },
+                  "composerName": "Abe Cunningham, Chi Cheng, Chino Moreno, Frank Delgado & Stephen Carpenter",
+                  "url": "https://music.apple.com/us/album/beware/1099850829?i=1099850845",
+                  "playParams": {
+                    "id": "1099850845",
+                    "kind": "song"
+                  },
+                  "discNumber": 1,
+                  "hasLyrics": true,
+                  "isAppleDigitalMaster": true,
+                  "name": "Beware",
+                  "previews": [
+                    {
+                      "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/8e/da/ec/8edaec79-5632-6d3a-10df-9f7e9a98ce4e/mzaf_14079898376904886280.plus.aac.p.m4a"
+                    }
+                  ],
+                  "artistName": "Deftones"
+                },
+                "rank": 18,
+                "featured_album": false
+              },
+              "groupRank": 18,
+              "winner": null
+            },
+            "song2": {
+              "song": {
+                "id": "1099847189",
+                "type": "songs",
+                "href": "/v1/catalog/us/songs/1099847189",
+                "attributes": {
+                  "albumName": "Deftones",
+                  "genreNames": [
+                    "Hard Rock",
+                    "Music",
+                    "Rock",
+                    "Hair Metal",
+                    "Metal"
+                  ],
+                  "trackNumber": 7,
+                  "releaseDate": "2003-05-20",
+                  "durationInMillis": 301933,
+                  "isrc": "USRE11600112",
+                  "artwork": {
+                    "width": 1425,
+                    "height": 1425,
+                    "url": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/22/c9/01/22c9019c-96d8-d32f-26a9-bf98c9541df2/093624919780.jpg/{w}x{h}bb.jpg",
+                    "bgColor": "000111",
+                    "textColor1": "fdfdfd",
+                    "textColor2": "85c5f4",
+                    "textColor3": "cacacd",
+                    "textColor4": "6a9ec6"
+                  },
+                  "composerName": "Abe Cunningham, Chi Cheng, Chino Moreno, Frank Delgado & Stephen Carpenter",
+                  "url": "https://music.apple.com/us/album/battle-axe/1099847180?i=1099847189",
+                  "playParams": {
+                    "id": "1099847189",
+                    "kind": "song"
+                  },
+                  "discNumber": 1,
+                  "hasLyrics": true,
+                  "isAppleDigitalMaster": true,
+                  "name": "Battle-Axe",
+                  "previews": [
+                    {
+                      "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/3f/f6/68/3ff668c7-ba31-a878-33dc-5ef2db2ec175/mzaf_1552722781185693585.plus.aac.p.m4a"
+                    }
+                  ],
+                  "artistName": "Deftones"
+                },
+                "rank": 47,
+                "featured_album": false
+              },
+              "groupRank": 47,
+              "winner": null
+            }
+          }
+        },
+        {
+          "matchupId": "5673023781078767855",
+          "round": 1,
+          "attributes": {
+            "complete": true,
+            "song1": {
+              "song": {
+                "id": "567302378",
+                "type": "songs",
+                "href": "/v1/catalog/us/songs/567302378",
+                "attributes": {
+                  "albumName": "Koi No Yokan",
+                  "genreNames": [
+                    "Hard Rock",
+                    "Music",
+                    "Rock",
+                    "Metal"
+                  ],
+                  "trackNumber": 1,
+                  "releaseDate": "2012-11-12",
+                  "durationInMillis": 164998,
+                  "isrc": "USRE11200420",
+                  "artwork": {
+                    "width": 1425,
+                    "height": 1425,
+                    "url": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/0f/b0/5a/0fb05adc-3847-4e07-3fe7-3cf9eb898e4d/093624946793.jpg/{w}x{h}bb.jpg",
+                    "bgColor": "000000",
+                    "textColor1": "f95020",
+                    "textColor2": "ec541a",
+                    "textColor3": "c7401a",
+                    "textColor4": "bc4315"
+                  },
+                  "composerName": "Deftones, Abe Cunningham, Chi Cheng, Chino Moreno, Frank Delgado & Stephen Carpenter",
+                  "url": "https://music.apple.com/us/album/swerve-city/567302377?i=567302378",
+                  "playParams": {
+                    "id": "567302378",
+                    "kind": "song"
+                  },
+                  "discNumber": 1,
+                  "hasLyrics": true,
+                  "isAppleDigitalMaster": true,
+                  "name": "Swerve City",
+                  "previews": [
+                    {
+                      "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/34/b5/34/34b534f4-6ff9-bea8-cd26-4c6e9258f1f3/mzaf_14524358213249215790.plus.aac.p.m4a"
+                    }
+                  ],
+                  "artistName": "Deftones"
+                },
+                "rank": 22,
+                "featured_album": false
+              },
+              "groupRank": 22,
+              "winner": null
+            },
+            "song2": {
+              "song": {
+                "id": "1078767855",
+                "type": "songs",
+                "href": "/v1/catalog/us/songs/1078767855",
+                "attributes": {
+                  "albumName": "Gore",
+                  "genreNames": [
+                    "Hard Rock",
+                    "Music",
+                    "Rock"
+                  ],
+                  "trackNumber": 5,
+                  "releaseDate": "2016-04-08",
+                  "durationInMillis": 320587,
+                  "isrc": "USRE11500594",
+                  "artwork": {
+                    "width": 1425,
+                    "height": 1425,
+                    "url": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/e0/e9/89/e0e9890e-19a5-b959-e0b2-2010d4425ad2/093624926467.jpg/{w}x{h}bb.jpg",
+                    "bgColor": "a7adb9",
+                    "textColor1": "080715",
+                    "textColor2": "2f1932",
+                    "textColor3": "282836",
+                    "textColor4": "47374d"
+                  },
+                  "composerName": "Abe Cunningham, Chino Moreno, Frank Delgado, Sergio Vega & Stephen Carpenter",
+                  "url": "https://music.apple.com/us/album/hearts-wires/1078767494?i=1078767855",
+                  "playParams": {
+                    "id": "1078767855",
+                    "kind": "song"
+                  },
+                  "discNumber": 1,
+                  "hasLyrics": true,
+                  "isAppleDigitalMaster": true,
+                  "name": "Hearts/Wires",
+                  "previews": [
+                    {
+                      "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/ba/57/48/ba574886-0a71-19f2-6298-2d3ff82bfcc7/mzaf_9892026340531218664.plus.aac.p.m4a"
+                    }
+                  ],
+                  "artistName": "Deftones"
+                },
+                "rank": 43,
+                "featured_album": false
+              },
+              "groupRank": 43,
+              "winner": null
+            }
+          }
+        },
+        {
+          "matchupId": "5673023841099843338",
+          "round": 1,
+          "attributes": {
+            "complete": true,
+            "song1": {
+              "song": {
+                "id": "567302384",
+                "type": "songs",
+                "href": "/v1/catalog/us/songs/567302384",
+                "attributes": {
+                  "albumName": "Koi No Yokan",
+                  "genreNames": [
+                    "Hard Rock",
+                    "Music",
+                    "Rock",
+                    "Metal"
+                  ],
+                  "trackNumber": 7,
+                  "releaseDate": "2012-10-09",
+                  "durationInMillis": 365478,
+                  "isrc": "USRE11200407",
+                  "artwork": {
+                    "width": 1425,
+                    "height": 1425,
+                    "url": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/0f/b0/5a/0fb05adc-3847-4e07-3fe7-3cf9eb898e4d/093624946793.jpg/{w}x{h}bb.jpg",
+                    "bgColor": "000000",
+                    "textColor1": "f95020",
+                    "textColor2": "ec541a",
+                    "textColor3": "c7401a",
+                    "textColor4": "bc4315"
+                  },
+                  "composerName": "Deftones, Abe Cunningham, Chi Cheng, Chino Moreno, Frank Delgado & Stephen Carpenter",
+                  "url": "https://music.apple.com/us/album/tempest/567302377?i=567302384",
+                  "playParams": {
+                    "id": "567302384",
+                    "kind": "song"
+                  },
+                  "discNumber": 1,
+                  "hasLyrics": true,
+                  "isAppleDigitalMaster": true,
+                  "name": "Tempest",
+                  "previews": [
+                    {
+                      "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/69/8c/cb/698ccb2c-50af-d1f0-26b8-4c76bd8abde5/mzaf_3108145222002177020.plus.aac.p.m4a"
+                    }
+                  ],
+                  "artistName": "Deftones"
+                },
+                "rank": 26,
+                "featured_album": false
+              },
+              "groupRank": 26,
+              "winner": null
+            },
+            "song2": {
+              "song": {
+                "id": "1099843338",
+                "type": "songs",
+                "href": "/v1/catalog/us/songs/1099843338",
+                "attributes": {
+                  "albumName": "Around the Fur",
+                  "genreNames": [
+                    "Hard Rock",
+                    "Music",
+                    "Rock"
+                  ],
+                  "trackNumber": 8,
+                  "releaseDate": "1997-10-28",
+                  "durationInMillis": 276640,
+                  "isrc": "USRE11600091",
+                  "artwork": {
+                    "width": 1425,
+                    "height": 1425,
+                    "url": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/27/cb/b4/27cbb40e-f8c6-dede-9c69-62089a873fa9/093624919803.jpg/{w}x{h}bb.jpg",
+                    "bgColor": "060208",
+                    "textColor1": "f0aa8c",
+                    "textColor2": "da7e77",
+                    "textColor3": "c18972",
+                    "textColor4": "b06561"
+                  },
+                  "composerName": "Abe Cunningham, Chi Cheng, Chino Moreno & Stephen Carpenter",
+                  "url": "https://music.apple.com/us/album/dai-the-flu/1099843198?i=1099843338",
+                  "playParams": {
+                    "id": "1099843338",
+                    "kind": "song"
+                  },
+                  "discNumber": 1,
+                  "hasLyrics": true,
+                  "isAppleDigitalMaster": true,
+                  "name": "Dai the Flu",
+                  "previews": [
+                    {
+                      "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/34/dc/3c/34dc3cae-4c7e-ac5a-950a-b2a3c14d8827/mzaf_4787893332208789198.plus.aac.p.m4a"
+                    }
+                  ],
+                  "artistName": "Deftones"
+                },
+                "rank": 39,
+                "featured_album": true
+              },
+              "groupRank": 39,
+              "winner": null
+            }
+          }
+        },
+        {
+          "matchupId": "10998432411099847183",
+          "round": 1,
+          "attributes": {
+            "complete": true,
+            "song1": {
+              "song": {
+                "id": "1099843241",
+                "type": "songs",
+                "href": "/v1/catalog/us/songs/1099843241",
+                "attributes": {
+                  "albumName": "Around the Fur",
+                  "genreNames": [
+                    "Hard Rock",
+                    "Music",
+                    "Rock"
+                  ],
+                  "trackNumber": 2,
+                  "releaseDate": "1997-10-28",
+                  "durationInMillis": 251240,
+                  "isrc": "USRE11600085",
+                  "artwork": {
+                    "width": 1425,
+                    "height": 1425,
+                    "url": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/27/cb/b4/27cbb40e-f8c6-dede-9c69-62089a873fa9/093624919803.jpg/{w}x{h}bb.jpg",
+                    "bgColor": "060208",
+                    "textColor1": "f0aa8c",
+                    "textColor2": "da7e77",
+                    "textColor3": "c18972",
+                    "textColor4": "b06561"
+                  },
+                  "composerName": "Abe Cunningham, Chi Cheng, Chino Moreno & Stephen Carpenter",
+                  "url": "https://music.apple.com/us/album/lhabia/1099843198?i=1099843241",
+                  "playParams": {
+                    "id": "1099843241",
+                    "kind": "song"
+                  },
+                  "discNumber": 1,
+                  "hasLyrics": true,
+                  "isAppleDigitalMaster": true,
+                  "name": "Lhabia",
+                  "previews": [
+                    {
+                      "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/6a/3b/c1/6a3bc169-2db8-faff-c1cb-eba90869a980/mzaf_1536205867297176028.plus.aac.p.m4a"
+                    }
+                  ],
+                  "artistName": "Deftones",
+                  "contentRating": "explicit"
+                },
+                "rank": 30,
+                "featured_album": true
+              },
+              "groupRank": 30,
+              "winner": null
+            },
+            "song2": {
+              "song": {
+                "id": "1099847183",
+                "type": "songs",
+                "href": "/v1/catalog/us/songs/1099847183",
+                "attributes": {
+                  "albumName": "Deftones",
+                  "genreNames": [
+                    "Hard Rock",
+                    "Music",
+                    "Rock",
+                    "Hair Metal",
+                    "Metal"
+                  ],
+                  "trackNumber": 2,
+                  "releaseDate": "2003-05-20",
+                  "durationInMillis": 203133,
+                  "isrc": "USRE11600107",
+                  "artwork": {
+                    "width": 1425,
+                    "height": 1425,
+                    "url": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/22/c9/01/22c9019c-96d8-d32f-26a9-bf98c9541df2/093624919780.jpg/{w}x{h}bb.jpg",
+                    "bgColor": "000111",
+                    "textColor1": "fdfdfd",
+                    "textColor2": "85c5f4",
+                    "textColor3": "cacacd",
+                    "textColor4": "6a9ec6"
+                  },
+                  "composerName": "Abe Cunningham, Chi Cheng, Chino Moreno, Frank Delgado & Stephen Carpenter",
+                  "url": "https://music.apple.com/us/album/needles-and-pins/1099847180?i=1099847183",
+                  "playParams": {
+                    "id": "1099847183",
+                    "kind": "song"
+                  },
+                  "discNumber": 1,
+                  "hasLyrics": true,
+                  "isAppleDigitalMaster": true,
+                  "name": "Needles and Pins",
+                  "previews": [
+                    {
+                      "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/a2/1b/f9/a21bf912-15cc-cd78-8f54-2fda1fd28311/mzaf_9324517816246670343.plus.aac.p.m4a"
+                    }
+                  ],
+                  "artistName": "Deftones",
+                  "contentRating": "explicit"
+                },
+                "rank": 35,
+                "featured_album": false
+              },
+              "groupRank": 35,
+              "winner": null
+            }
+          }
+        }
+      ],
+      "progress": 1
+    },
+    "round2": {
+      "progress": 1,
+      "roundMatchups": [
+        {
+          "matchupId": "1099843334567302386",
+          "round": 2,
+          "attributes": {
+            "complete": true,
+            "song1": {
+              "groupRank": 2,
+              "winner": null
+            },
+            "song2": {
+              "groupRank": 6,
+              "winner": null
+            }
+          }
+        },
+        {
+          "matchupId": "10998432431099840919",
+          "round": 2,
+          "attributes": {
+            "complete": true,
+            "song1": {
+              "groupRank": 10,
+              "winner": null
+            },
+            "song2": {
+              "groupRank": 14,
+              "winner": null
+            }
+          }
+        },
+        {
+          "matchupId": "1099850845567302378",
+          "round": 2,
+          "attributes": {
+            "complete": true,
+            "song1": {
+              "groupRank": 18,
+              "winner": null
+            },
+            "song2": {
+              "groupRank": 22,
+              "winner": null
+            }
+          }
+        },
+        {
+          "matchupId": "5673023841099843241",
+          "round": 2,
+          "attributes": {
+            "complete": true,
+            "song1": {
+              "groupRank": 26,
+              "winner": null
+            },
+            "song2": {
+              "groupRank": 30,
+              "winner": null
+            }
+          }
+        }
+      ]
+    },
+    "round3": {
+      "progress": 1,
+      "roundMatchups": [
+        {
+          "matchupId": "10998433341099843243",
+          "round": 3,
+          "attributes": {
+            "complete": true,
+            "song1": {
+              "groupRank": 2,
+              "winner": null
+            },
+            "song2": {
+              "groupRank": 10,
+              "winner": null
+            }
+          }
+        },
+        {
+          "matchupId": "1099850845567302384",
+          "round": 3,
+          "attributes": {
+            "complete": true,
+            "song1": {
+              "groupRank": 18,
+              "winner": null
+            },
+            "song2": {
+              "groupRank": 26,
+              "winner": null
+            }
+          }
+        }
+      ]
+    },
+    "round4": {
+      "progress": 1,
+      "roundMatchups": [
+        {
+          "matchupId": "10998433341099850845",
+          "round": 4,
+          "attributes": {
+            "complete": true,
+            "song1": {
+              "groupRank": 2,
+              "winner": null
+            },
+            "song2": {
+              "groupRank": 18,
+              "winner": null
+            }
+          }
+        }
+      ]
+    }
+  },
+  "group3": {
+    "round1": {
+      "roundMatchups": [
+        {
+          "matchupId": "1099843209567302387",
+          "round": 1,
+          "attributes": {
+            "complete": true,
+            "song1": {
+              "song": {
+                "id": "1099843209",
+                "type": "songs",
+                "href": "/v1/catalog/us/songs/1099843209",
+                "attributes": {
+                  "albumName": "Around the Fur",
+                  "genreNames": [
+                    "Hard Rock",
+                    "Music",
+                    "Rock"
+                  ],
+                  "trackNumber": 1,
+                  "releaseDate": "1997-10-28",
+                  "durationInMillis": 215480,
+                  "isrc": "USRE11600084",
+                  "artwork": {
+                    "width": 1425,
+                    "height": 1425,
+                    "url": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/27/cb/b4/27cbb40e-f8c6-dede-9c69-62089a873fa9/093624919803.jpg/{w}x{h}bb.jpg",
+                    "bgColor": "060208",
+                    "textColor1": "f0aa8c",
+                    "textColor2": "da7e77",
+                    "textColor3": "c18972",
+                    "textColor4": "b06561"
+                  },
+                  "composerName": "Abe Cunningham, Chi Cheng, Chino Moreno & Stephen Carpenter",
+                  "url": "https://music.apple.com/us/album/my-own-summer-shove-it/1099843198?i=1099843209",
+                  "playParams": {
+                    "id": "1099843209",
+                    "kind": "song"
+                  },
+                  "discNumber": 1,
+                  "isAppleDigitalMaster": true,
+                  "hasLyrics": true,
+                  "name": "My Own Summer (Shove It)",
+                  "previews": [
+                    {
+                      "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/79/1f/59/791f597d-d720-089f-8dfd-1f88a4f65ba7/mzaf_12861853141152525171.plus.aac.p.m4a"
+                    }
+                  ],
+                  "artistName": "Deftones"
+                },
+                "rank": 3,
+                "featured_album": true
+              },
+              "groupRank": 3,
+              "winner": null
+            },
+            "song2": {
+              "song": {
+                "id": "567302387",
+                "type": "songs",
+                "href": "/v1/catalog/us/songs/567302387",
+                "attributes": {
+                  "albumName": "Koi No Yokan",
+                  "genreNames": [
+                    "Hard Rock",
+                    "Music",
+                    "Rock",
+                    "Metal"
+                  ],
+                  "trackNumber": 10,
+                  "releaseDate": "2012-11-12",
+                  "durationInMillis": 339996,
+                  "isrc": "USRE11200425",
+                  "artwork": {
+                    "width": 1425,
+                    "height": 1425,
+                    "url": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/0f/b0/5a/0fb05adc-3847-4e07-3fe7-3cf9eb898e4d/093624946793.jpg/{w}x{h}bb.jpg",
+                    "bgColor": "000000",
+                    "textColor1": "f95020",
+                    "textColor2": "ec541a",
+                    "textColor3": "c7401a",
+                    "textColor4": "bc4315"
+                  },
+                  "composerName": "Deftones, Abe Cunningham, Chi Cheng, Chino Moreno, Frank Delgado & Stephen Carpenter",
+                  "url": "https://music.apple.com/us/album/goon-squad/567302377?i=567302387",
+                  "playParams": {
+                    "id": "567302387",
+                    "kind": "song"
+                  },
+                  "discNumber": 1,
+                  "isAppleDigitalMaster": true,
+                  "hasLyrics": true,
+                  "name": "Goon Squad",
+                  "previews": [
+                    {
+                      "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/68/13/af/6813af93-1089-10f7-f0b0-586a65d45892/mzaf_16314654240624446763.plus.aac.p.m4a"
+                    }
+                  ],
+                  "artistName": "Deftones"
+                },
+                "rank": 62,
+                "featured_album": false
+              },
+              "groupRank": 62,
+              "winner": null
+            }
+          }
+        },
+        {
+          "matchupId": "10998487231528075504",
+          "round": 1,
+          "attributes": {
+            "complete": true,
+            "song1": {
+              "song": {
+                "id": "1099848723",
+                "type": "songs",
+                "href": "/v1/catalog/us/songs/1099848723",
+                "attributes": {
+                  "albumName": "White Pony",
+                  "genreNames": [
+                    "Hard Rock",
+                    "Music",
+                    "Rock",
+                    "Alternative",
+                    "Adult Alternative",
+                    "Metal"
+                  ],
+                  "trackNumber": 3,
+                  "releaseDate": "2000-06-20",
+                  "durationInMillis": 255440,
+                  "isrc": "USRE11600096",
+                  "artwork": {
+                    "width": 1425,
+                    "height": 1425,
+                    "url": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/96/51/57/96515710-cf91-0663-6f5a-942acf6ea31b/093624919797.jpg/{w}x{h}bb.jpg",
+                    "bgColor": "3a4784",
+                    "textColor1": "ffffff",
+                    "textColor2": "ffffff",
+                    "textColor3": "d7dae6",
+                    "textColor4": "d7dae6"
+                  },
+                  "composerName": "Abe Cunningham, Chi Cheng, Chino Moreno, Frank Delgado & Stephen Carpenter",
+                  "url": "https://music.apple.com/us/album/digital-bath/1099848709?i=1099848723",
+                  "playParams": {
+                    "id": "1099848723",
+                    "kind": "song"
+                  },
+                  "discNumber": 1,
+                  "isAppleDigitalMaster": true,
+                  "hasLyrics": true,
+                  "name": "Digital Bath",
+                  "previews": [
+                    {
+                      "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/36/ca/8e/36ca8e58-ebf6-caa9-1057-d8fe564cac78/mzaf_10188594626065058778.plus.aac.p.m4a"
+                    }
+                  ],
+                  "artistName": "Deftones"
+                },
+                "rank": 7,
+                "featured_album": true
+              },
+              "groupRank": 7,
+              "winner": null
+            },
+            "song2": {
+              "song": {
+                "id": "1528075504",
+                "type": "songs",
+                "href": "/v1/catalog/us/songs/1528075504",
+                "attributes": {
+                  "albumName": "Ohms",
+                  "genreNames": [
+                    "Hard Rock",
+                    "Music",
+                    "Rock"
+                  ],
+                  "trackNumber": 9,
+                  "releaseDate": "2020-09-25",
+                  "durationInMillis": 299382,
+                  "isrc": "USRE12000801",
+                  "artwork": {
+                    "width": 1500,
+                    "height": 1500,
+                    "url": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/b4/b6/1a/b4b61aee-c236-4061-55de-15c8a57ca32a/093624892120.jpg/{w}x{h}bb.jpg",
+                    "bgColor": "000000",
+                    "textColor1": "fdfdfd",
+                    "textColor2": "c8c8c8",
+                    "textColor3": "cacaca",
+                    "textColor4": "a0a0a0"
+                  },
+                  "composerName": "Abe Cunningham, Chino Moreno, Frank Delgado, Sergio Vega & Stephen Carpenter",
+                  "url": "https://music.apple.com/us/album/headless/1528075495?i=1528075504",
+                  "playParams": {
+                    "id": "1528075504",
+                    "kind": "song"
+                  },
+                  "discNumber": 1,
+                  "hasLyrics": true,
+                  "isAppleDigitalMaster": true,
+                  "name": "Headless",
+                  "previews": [
+                    {
+                      "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/6d/8e/a0/6d8ea0fb-456e-8657-6b9f-f863c8191fcb/mzaf_14523877180234762750.plus.aac.p.m4a"
+                    }
+                  ],
+                  "artistName": "Deftones"
+                },
+                "rank": 58,
+                "featured_album": false
+              },
+              "groupRank": 58,
+              "winner": null
+            }
+          }
+        },
+        {
+          "matchupId": "10998471841099840922",
+          "round": 1,
+          "attributes": {
+            "complete": true,
+            "song1": {
+              "song": {
+                "id": "1099847184",
+                "type": "songs",
+                "href": "/v1/catalog/us/songs/1099847184",
+                "attributes": {
+                  "albumName": "Deftones",
+                  "genreNames": [
+                    "Hard Rock",
+                    "Music",
+                    "Rock",
+                    "Hair Metal",
+                    "Metal"
+                  ],
+                  "trackNumber": 3,
+                  "releaseDate": "2003-05-20",
+                  "durationInMillis": 257853,
+                  "isrc": "USRE11600108",
+                  "artwork": {
+                    "width": 1425,
+                    "height": 1425,
+                    "url": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/22/c9/01/22c9019c-96d8-d32f-26a9-bf98c9541df2/093624919780.jpg/{w}x{h}bb.jpg",
+                    "bgColor": "000111",
+                    "textColor1": "fdfdfd",
+                    "textColor2": "85c5f4",
+                    "textColor3": "cacacd",
+                    "textColor4": "6a9ec6"
+                  },
+                  "composerName": "Abe Cunningham, Chi Cheng, Chino Moreno, Frank Delgado & Stephen Carpenter",
+                  "url": "https://music.apple.com/us/album/minerva/1099847180?i=1099847184",
+                  "playParams": {
+                    "id": "1099847184",
+                    "kind": "song"
+                  },
+                  "discNumber": 1,
+                  "hasLyrics": true,
+                  "isAppleDigitalMaster": true,
+                  "name": "Minerva",
+                  "previews": [
+                    {
+                      "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/3e/91/a1/3e91a139-4b6e-5ed3-fdf1-0dd29c24f181/mzaf_9295084413806088841.plus.aac.p.m4a"
+                    }
+                  ],
+                  "artistName": "Deftones"
+                },
+                "rank": 11,
+                "featured_album": false
+              },
+              "groupRank": 11,
+              "winner": null
+            },
+            "song2": {
+              "song": {
+                "id": "1099840922",
+                "type": "songs",
+                "href": "/v1/catalog/us/songs/1099840922",
+                "attributes": {
+                  "albumName": "Adrenaline",
+                  "genreNames": [
+                    "Hard Rock",
+                    "Music",
+                    "Rock",
+                    "Adult Alternative",
+                    "Alternative",
+                    "Metal"
+                  ],
+                  "trackNumber": 3,
+                  "releaseDate": "1995-10-03",
+                  "durationInMillis": 269040,
+                  "isrc": "USRE11600075",
+                  "artwork": {
+                    "width": 1425,
+                    "height": 1425,
+                    "url": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/fd/85/21/fd8521f1-98b0-d74b-6c5a-15a0fcc39e89/093624919810.jpg/{w}x{h}bb.jpg",
+                    "bgColor": "faf1f2",
+                    "textColor1": "000000",
+                    "textColor2": "110d0e",
+                    "textColor3": "323030",
+                    "textColor4": "3f3a3b"
+                  },
+                  "composerName": "Abe Cunningham, Chi Cheng, Chino Moreno & Stephen Carpenter",
+                  "url": "https://music.apple.com/us/album/one-weak/1099840917?i=1099840922",
+                  "playParams": {
+                    "id": "1099840922",
+                    "kind": "song"
+                  },
+                  "discNumber": 1,
+                  "isAppleDigitalMaster": true,
+                  "hasLyrics": true,
+                  "name": "One Weak",
+                  "previews": [
+                    {
+                      "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/98/66/fd/9866fdb2-831a-26da-6704-b5c52473c34b/mzaf_156875114131513750.plus.aac.p.m4a"
+                    }
+                  ],
+                  "artistName": "Deftones",
+                  "contentRating": "explicit"
+                },
+                "rank": 54,
+                "featured_album": false
+              },
+              "groupRank": 54,
+              "winner": null
+            }
+          }
+        },
+        {
+          "matchupId": "1099843245567302381",
+          "round": 1,
+          "attributes": {
+            "complete": true,
+            "song1": {
+              "song": {
+                "id": "1099843245",
+                "type": "songs",
+                "href": "/v1/catalog/us/songs/1099843245",
+                "attributes": {
+                  "albumName": "Around the Fur",
+                  "genreNames": [
+                    "Hard Rock",
+                    "Music",
+                    "Rock"
+                  ],
+                  "trackNumber": 4,
+                  "releaseDate": "1997-10-28",
+                  "durationInMillis": 211787,
+                  "isrc": "USRE11600087",
+                  "artwork": {
+                    "width": 1425,
+                    "height": 1425,
+                    "url": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/27/cb/b4/27cbb40e-f8c6-dede-9c69-62089a873fa9/093624919803.jpg/{w}x{h}bb.jpg",
+                    "bgColor": "060208",
+                    "textColor1": "f0aa8c",
+                    "textColor2": "da7e77",
+                    "textColor3": "c18972",
+                    "textColor4": "b06561"
+                  },
+                  "composerName": "Abe Cunningham, Chi Cheng, Chino Moreno & Stephen Carpenter",
+                  "url": "https://music.apple.com/us/album/around-the-fur/1099843198?i=1099843245",
+                  "playParams": {
+                    "id": "1099843245",
+                    "kind": "song"
+                  },
+                  "discNumber": 1,
+                  "isAppleDigitalMaster": true,
+                  "hasLyrics": true,
+                  "name": "Around the Fur",
+                  "previews": [
+                    {
+                      "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/98/4e/2a/984e2a03-106f-ccfe-53e9-2969a3981b1a/mzaf_17962193993068290042.plus.aac.p.m4a"
+                    }
+                  ],
+                  "contentRating": "explicit",
+                  "artistName": "Deftones"
+                },
+                "rank": 15,
+                "featured_album": true
+              },
+              "groupRank": 15,
+              "winner": null
+            },
+            "song2": {
+              "song": {
+                "id": "567302381",
+                "type": "songs",
+                "href": "/v1/catalog/us/songs/567302381",
+                "attributes": {
+                  "albumName": "Koi No Yokan",
+                  "genreNames": [
+                    "Hard Rock",
+                    "Music",
+                    "Rock",
+                    "Metal"
+                  ],
+                  "trackNumber": 4,
+                  "releaseDate": "2012-11-12",
+                  "durationInMillis": 211418,
+                  "isrc": "USRE11200418",
+                  "artwork": {
+                    "width": 1425,
+                    "height": 1425,
+                    "url": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/0f/b0/5a/0fb05adc-3847-4e07-3fe7-3cf9eb898e4d/093624946793.jpg/{w}x{h}bb.jpg",
+                    "bgColor": "000000",
+                    "textColor1": "f95020",
+                    "textColor2": "ec541a",
+                    "textColor3": "c7401a",
+                    "textColor4": "bc4315"
+                  },
+                  "composerName": "Deftones, Abe Cunningham, Chi Cheng, Chino Moreno, Frank Delgado & Stephen Carpenter",
+                  "url": "https://music.apple.com/us/album/poltergeist/567302377?i=567302381",
+                  "playParams": {
+                    "id": "567302381",
+                    "kind": "song"
+                  },
+                  "discNumber": 1,
+                  "hasLyrics": true,
+                  "isAppleDigitalMaster": true,
+                  "name": "Poltergeist",
+                  "previews": [
+                    {
+                      "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/d4/36/c6/d436c643-dd6c-cdd2-c293-e9d18f7ae937/mzaf_3291135530713738270.plus.aac.p.m4a"
+                    }
+                  ],
+                  "contentRating": "explicit",
+                  "artistName": "Deftones"
+                },
+                "rank": 50,
+                "featured_album": false
+              },
+              "groupRank": 50,
+              "winner": null
+            }
+          }
+        },
+        {
+          "matchupId": "5673023821099848808",
+          "round": 1,
+          "attributes": {
+            "complete": true,
+            "song1": {
+              "song": {
+                "id": "567302382",
+                "type": "songs",
+                "href": "/v1/catalog/us/songs/567302382",
+                "attributes": {
+                  "albumName": "Koi No Yokan",
+                  "genreNames": [
+                    "Hard Rock",
+                    "Music",
+                    "Rock",
+                    "Metal"
+                  ],
+                  "trackNumber": 5,
+                  "releaseDate": "2012-11-12",
+                  "durationInMillis": 299240,
+                  "isrc": "USRE11200421",
+                  "artwork": {
+                    "width": 1425,
+                    "height": 1425,
+                    "url": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/0f/b0/5a/0fb05adc-3847-4e07-3fe7-3cf9eb898e4d/093624946793.jpg/{w}x{h}bb.jpg",
+                    "bgColor": "000000",
+                    "textColor1": "f95020",
+                    "textColor2": "ec541a",
+                    "textColor3": "c7401a",
+                    "textColor4": "bc4315"
+                  },
+                  "composerName": "Deftones, Abe Cunningham, Chi Cheng, Chino Moreno, Frank Delgado & Stephen Carpenter",
+                  "url": "https://music.apple.com/us/album/entombed/567302377?i=567302382",
+                  "playParams": {
+                    "id": "567302382",
+                    "kind": "song"
+                  },
+                  "discNumber": 1,
+                  "isAppleDigitalMaster": true,
+                  "hasLyrics": true,
+                  "name": "Entombed",
+                  "previews": [
+                    {
+                      "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/7d/4a/f1/7d4af157-db4f-fb45-a2a3-fa7c3b9bc073/mzaf_14245224805531349195.plus.aac.p.m4a"
+                    }
+                  ],
+                  "artistName": "Deftones"
+                },
+                "rank": 19,
+                "featured_album": false
+              },
+              "groupRank": 19,
+              "winner": null
+            },
+            "song2": {
+              "song": {
+                "id": "1099848808",
+                "type": "songs",
+                "href": "/v1/catalog/us/songs/1099848808",
+                "attributes": {
+                  "albumName": "White Pony",
+                  "genreNames": [
+                    "Hard Rock",
+                    "Music",
+                    "Rock",
+                    "Alternative",
+                    "Adult Alternative",
+                    "Metal"
+                  ],
+                  "trackNumber": 9,
+                  "releaseDate": "2000-06-20",
+                  "durationInMillis": 203667,
+                  "isrc": "USRE11600102",
+                  "artwork": {
+                    "width": 1425,
+                    "height": 1425,
+                    "url": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/96/51/57/96515710-cf91-0663-6f5a-942acf6ea31b/093624919797.jpg/{w}x{h}bb.jpg",
+                    "bgColor": "3a4784",
+                    "textColor1": "ffffff",
+                    "textColor2": "ffffff",
+                    "textColor3": "d7dae6",
+                    "textColor4": "d7dae6"
+                  },
+                  "composerName": "Abe Cunningham, Chi Cheng, Chino Moreno, Frank Delgado & Stephen Carpenter",
+                  "url": "https://music.apple.com/us/album/korea/1099848709?i=1099848808",
+                  "playParams": {
+                    "id": "1099848808",
+                    "kind": "song"
+                  },
+                  "discNumber": 1,
+                  "hasLyrics": true,
+                  "isAppleDigitalMaster": true,
+                  "name": "Korea",
+                  "previews": [
+                    {
+                      "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/1b/ff/c3/1bffc30f-d9b5-6d93-c51b-c6c229440eda/mzaf_2957867398622073239.plus.aac.p.m4a"
+                    }
+                  ],
+                  "artistName": "Deftones"
+                },
+                "rank": 46,
+                "featured_album": true
+              },
+              "groupRank": 46,
+              "winner": null
+            }
+          }
+        },
+        {
+          "matchupId": "1528075496567302380",
+          "round": 1,
+          "attributes": {
+            "complete": true,
+            "song1": {
+              "song": {
+                "id": "1528075496",
+                "type": "songs",
+                "href": "/v1/catalog/us/songs/1528075496",
+                "attributes": {
+                  "albumName": "Ohms",
+                  "genreNames": [
+                    "Hard Rock",
+                    "Music",
+                    "Rock"
+                  ],
+                  "trackNumber": 1,
+                  "releaseDate": "2020-09-18",
+                  "durationInMillis": 317281,
+                  "isrc": "USRE12000793",
+                  "artwork": {
+                    "width": 1500,
+                    "height": 1500,
+                    "url": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/b4/b6/1a/b4b61aee-c236-4061-55de-15c8a57ca32a/093624892120.jpg/{w}x{h}bb.jpg",
+                    "bgColor": "000000",
+                    "textColor1": "fdfdfd",
+                    "textColor2": "c8c8c8",
+                    "textColor3": "cacaca",
+                    "textColor4": "a0a0a0"
+                  },
+                  "composerName": "Abe Cunningham, Chino Moreno, Frank Delgado, Sergio Vega & Stephen Carpenter",
+                  "url": "https://music.apple.com/us/album/genesis/1528075495?i=1528075496",
+                  "playParams": {
+                    "id": "1528075496",
+                    "kind": "song"
+                  },
+                  "discNumber": 1,
+                  "hasLyrics": true,
+                  "isAppleDigitalMaster": true,
+                  "name": "Genesis",
+                  "previews": [
+                    {
+                      "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/f9/de/77/f9de7793-c419-dbf6-2ac7-fe135ac94c3a/mzaf_11201923840766776395.plus.aac.p.m4a"
+                    }
+                  ],
+                  "artistName": "Deftones"
+                },
+                "rank": 23,
+                "featured_album": false
+              },
+              "groupRank": 23,
+              "winner": null
+            },
+            "song2": {
+              "song": {
+                "id": "567302380",
+                "type": "songs",
+                "href": "/v1/catalog/us/songs/567302380",
+                "attributes": {
+                  "albumName": "Koi No Yokan",
+                  "genreNames": [
+                    "Hard Rock",
+                    "Music",
+                    "Rock",
+                    "Metal"
+                  ],
+                  "trackNumber": 3,
+                  "releaseDate": "2012-09-19",
+                  "durationInMillis": 248889,
+                  "isrc": "USRE11200472",
+                  "artwork": {
+                    "width": 1425,
+                    "height": 1425,
+                    "url": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/0f/b0/5a/0fb05adc-3847-4e07-3fe7-3cf9eb898e4d/093624946793.jpg/{w}x{h}bb.jpg",
+                    "bgColor": "000000",
+                    "textColor1": "f95020",
+                    "textColor2": "ec541a",
+                    "textColor3": "c7401a",
+                    "textColor4": "bc4315"
+                  },
+                  "composerName": "Deftones, Abe Cunningham, Chi Cheng, Chino Moreno, Frank Delgado & Stephen Carpenter",
+                  "url": "https://music.apple.com/us/album/leathers/567302377?i=567302380",
+                  "playParams": {
+                    "id": "567302380",
+                    "kind": "song"
+                  },
+                  "discNumber": 1,
+                  "isAppleDigitalMaster": true,
+                  "hasLyrics": true,
+                  "name": "Leathers",
+                  "previews": [
+                    {
+                      "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/e2/a4/ab/e2a4aba8-344c-bb7e-19b0-4c9b44154841/mzaf_4236801423886085141.plus.aac.p.m4a"
+                    }
+                  ],
+                  "artistName": "Deftones"
+                },
+                "rank": 42,
+                "featured_album": false
+              },
+              "groupRank": 42,
+              "winner": null
+            }
+          }
+        },
+        {
+          "matchupId": "10787675121099847182",
+          "round": 1,
+          "attributes": {
+            "complete": true,
+            "song1": {
+              "song": {
+                "id": "1078767512",
+                "type": "songs",
+                "href": "/v1/catalog/us/songs/1078767512",
+                "attributes": {
+                  "albumName": "Gore",
+                  "genreNames": [
+                    "Hard Rock",
+                    "Music",
+                    "Rock"
+                  ],
+                  "trackNumber": 1,
+                  "releaseDate": "2016-04-08",
+                  "durationInMillis": 217960,
+                  "isrc": "USRE11500590",
+                  "artwork": {
+                    "width": 1425,
+                    "height": 1425,
+                    "url": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/e0/e9/89/e0e9890e-19a5-b959-e0b2-2010d4425ad2/093624926467.jpg/{w}x{h}bb.jpg",
+                    "bgColor": "a7adb9",
+                    "textColor1": "080715",
+                    "textColor2": "2f1932",
+                    "textColor3": "282836",
+                    "textColor4": "47374d"
+                  },
+                  "composerName": "Abe Cunningham, Chino Moreno, Frank Delgado, Sergio Vega & Stephen Carpenter",
+                  "url": "https://music.apple.com/us/album/prayers-triangles/1078767494?i=1078767512",
+                  "playParams": {
+                    "id": "1078767512",
+                    "kind": "song"
+                  },
+                  "discNumber": 1,
+                  "hasLyrics": true,
+                  "isAppleDigitalMaster": true,
+                  "name": "Prayers/Triangles",
+                  "previews": [
+                    {
+                      "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/9d/de/16/9dde169b-1765-bdcb-842b-d8054a0d10fe/mzaf_254965901355262703.plus.aac.p.m4a"
+                    }
+                  ],
+                  "artistName": "Deftones"
+                },
+                "rank": 27,
+                "featured_album": false
+              },
+              "groupRank": 27,
+              "winner": null
+            },
+            "song2": {
+              "song": {
+                "id": "1099847182",
+                "type": "songs",
+                "href": "/v1/catalog/us/songs/1099847182",
+                "attributes": {
+                  "albumName": "Deftones",
+                  "genreNames": [
+                    "Hard Rock",
+                    "Music",
+                    "Rock",
+                    "Hair Metal",
+                    "Metal"
+                  ],
+                  "trackNumber": 1,
+                  "releaseDate": "2003-05-20",
+                  "durationInMillis": 250893,
+                  "isrc": "USRE11600106",
+                  "artwork": {
+                    "width": 1425,
+                    "height": 1425,
+                    "url": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/22/c9/01/22c9019c-96d8-d32f-26a9-bf98c9541df2/093624919780.jpg/{w}x{h}bb.jpg",
+                    "bgColor": "000111",
+                    "textColor1": "fdfdfd",
+                    "textColor2": "85c5f4",
+                    "textColor3": "cacacd",
+                    "textColor4": "6a9ec6"
+                  },
+                  "composerName": "Abe Cunningham, Chi Cheng, Chino Moreno, Frank Delgado & Stephen Carpenter",
+                  "url": "https://music.apple.com/us/album/hexagram/1099847180?i=1099847182",
+                  "playParams": {
+                    "id": "1099847182",
+                    "kind": "song"
+                  },
+                  "discNumber": 1,
+                  "isAppleDigitalMaster": true,
+                  "hasLyrics": true,
+                  "name": "Hexagram",
+                  "previews": [
+                    {
+                      "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/ce/a1/73/cea17393-26f6-9a78-7c6d-a94823d7bc63/mzaf_8570265139861967768.plus.aac.p.m4a"
+                    }
+                  ],
+                  "artistName": "Deftones"
+                },
+                "rank": 38,
+                "featured_album": false
+              },
+              "groupRank": 38,
+              "winner": null
+            }
+          }
+        },
+        {
+          "matchupId": "10998467211099848791",
+          "round": 1,
+          "attributes": {
+            "complete": true,
+            "song1": {
+              "song": {
+                "id": "1099846721",
+                "type": "songs",
+                "href": "/v1/catalog/us/songs/1099846721",
+                "attributes": {
+                  "albumName": "Diamond Eyes (Deluxe Edition)",
+                  "genreNames": [
+                    "Hard Rock",
+                    "Music",
+                    "Rock",
+                    "Metal"
+                  ],
+                  "trackNumber": 9,
+                  "releaseDate": "2010-05-04",
+                  "durationInMillis": 218827,
+                  "isrc": "USRE11600067",
+                  "artwork": {
+                    "width": 1425,
+                    "height": 1425,
+                    "url": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/cd/bd/cb/cdbdcbfd-0b6e-93ff-61f7-04c9d5da7368/093624919759.jpg/{w}x{h}bb.jpg",
+                    "bgColor": "c3c5c0",
+                    "textColor1": "000000",
+                    "textColor2": "272a27",
+                    "textColor3": "272726",
+                    "textColor4": "464945"
+                  },
+                  "composerName": "Abe Cunningham, Chino Moreno, Frank Delgado, Sergio Vega & Stephen Carpenter",
+                  "url": "https://music.apple.com/us/album/risk/1099846321?i=1099846721",
+                  "playParams": {
+                    "id": "1099846721",
+                    "kind": "song"
+                  },
+                  "discNumber": 1,
+                  "isAppleDigitalMaster": true,
+                  "hasLyrics": true,
+                  "name": "Risk",
+                  "previews": [
+                    {
+                      "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/2c/a4/d5/2ca4d5bc-f760-1623-08e4-c6e4462a8310/mzaf_8111974879120415680.plus.aac.p.m4a"
+                    }
+                  ],
+                  "artistName": "Deftones"
+                },
+                "rank": 31,
+                "featured_album": false
+              },
+              "groupRank": 31,
+              "winner": null
+            },
+            "song2": {
+              "song": {
+                "id": "1099848791",
+                "type": "songs",
+                "href": "/v1/catalog/us/songs/1099848791",
+                "attributes": {
+                  "albumName": "White Pony",
+                  "genreNames": [
+                    "Hard Rock",
+                    "Music",
+                    "Rock",
+                    "Alternative",
+                    "Adult Alternative",
+                    "Metal"
+                  ],
+                  "trackNumber": 4,
+                  "releaseDate": "2000-06-20",
+                  "durationInMillis": 241853,
+                  "isrc": "USRE11600097",
+                  "artwork": {
+                    "width": 1425,
+                    "height": 1425,
+                    "url": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/96/51/57/96515710-cf91-0663-6f5a-942acf6ea31b/093624919797.jpg/{w}x{h}bb.jpg",
+                    "bgColor": "3a4784",
+                    "textColor1": "ffffff",
+                    "textColor2": "ffffff",
+                    "textColor3": "d7dae6",
+                    "textColor4": "d7dae6"
+                  },
+                  "composerName": "Abe Cunningham, Chi Cheng, Chino Moreno, Frank Delgado & Stephen Carpenter",
+                  "url": "https://music.apple.com/us/album/elite/1099848709?i=1099848791",
+                  "playParams": {
+                    "id": "1099848791",
+                    "kind": "song"
+                  },
+                  "discNumber": 1,
+                  "isAppleDigitalMaster": true,
+                  "hasLyrics": true,
+                  "name": "Elite",
+                  "previews": [
+                    {
+                      "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/16/ac/0b/16ac0b46-8933-36c8-298b-3d17da896c31/mzaf_1329660313084947302.plus.aac.p.m4a"
+                    }
+                  ],
+                  "artistName": "Deftones"
+                },
+                "rank": 34,
+                "featured_album": true
+              },
+              "groupRank": 34,
+              "winner": null
+            }
+          }
+        }
+      ],
+      "progress": 1
+    },
+    "round2": {
+      "progress": 1,
+      "roundMatchups": [
+        {
+          "matchupId": "5673023871528075504",
+          "round": 2,
+          "attributes": {
+            "complete": true,
+            "song1": {
+              "groupRank": 62,
+              "winner": null
+            },
+            "song2": {
+              "groupRank": 58,
+              "winner": null
+            }
+          }
+        },
+        {
+          "matchupId": "10998471841099843245",
+          "round": 2,
+          "attributes": {
+            "complete": true,
+            "song1": {
+              "groupRank": 11,
+              "winner": null
+            },
+            "song2": {
+              "groupRank": 15,
+              "winner": null
+            }
+          }
+        },
+        {
+          "matchupId": "5673023821528075496",
+          "round": 2,
+          "attributes": {
+            "complete": true,
+            "song1": {
+              "groupRank": 19,
+              "winner": null
+            },
+            "song2": {
+              "groupRank": 23,
+              "winner": null
+            }
+          }
+        },
+        {
+          "matchupId": "10787675121099846721",
+          "round": 2,
+          "attributes": {
+            "complete": true,
+            "song1": {
+              "groupRank": 27,
+              "winner": null
+            },
+            "song2": {
+              "groupRank": 31,
+              "winner": null
+            }
+          }
+        }
+      ]
+    },
+    "round3": {
+      "progress": 1,
+      "roundMatchups": [
+        {
+          "matchupId": "5673023871099847184",
+          "round": 3,
+          "attributes": {
+            "complete": true,
+            "song1": {
+              "groupRank": 62,
+              "winner": null
+            },
+            "song2": {
+              "groupRank": 11,
+              "winner": null
+            }
+          }
+        },
+        {
+          "matchupId": "5673023821078767512",
+          "round": 3,
+          "attributes": {
+            "complete": true,
+            "song1": {
+              "groupRank": 19,
+              "winner": null
+            },
+            "song2": {
+              "groupRank": 27,
+              "winner": null
+            }
+          }
+        }
+      ]
+    },
+    "round4": {
+      "progress": 1,
+      "roundMatchups": [
+        {
+          "matchupId": "567302387567302382",
+          "round": 4,
+          "attributes": {
+            "complete": true,
+            "song1": {
+              "groupRank": 62,
+              "winner": null
+            },
+            "song2": {
+              "groupRank": 19,
+              "winner": null
+            }
+          }
+        }
+      ]
+    }
+  },
+  "group4": {
+    "round1": {
+      "roundMatchups": [
+        {
+          "matchupId": "10998464971099840920",
+          "round": 1,
+          "attributes": {
+            "complete": true,
+            "song1": {
+              "song": {
+                "id": "1099846497",
+                "type": "songs",
+                "href": "/v1/catalog/us/songs/1099846497",
+                "attributes": {
+                  "albumName": "Diamond Eyes (Deluxe Edition)",
+                  "genreNames": [
+                    "Hard Rock",
+                    "Music",
+                    "Rock",
+                    "Metal"
+                  ],
+                  "trackNumber": 8,
+                  "releaseDate": "2010-05-04",
+                  "durationInMillis": 241560,
+                  "isrc": "USRE11600066",
+                  "artwork": {
+                    "width": 1425,
+                    "height": 1425,
+                    "url": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/cd/bd/cb/cdbdcbfd-0b6e-93ff-61f7-04c9d5da7368/093624919759.jpg/{w}x{h}bb.jpg",
+                    "bgColor": "c3c5c0",
+                    "textColor1": "000000",
+                    "textColor2": "272a27",
+                    "textColor3": "272726",
+                    "textColor4": "464945"
+                  },
+                  "composerName": "Abe Cunningham, Chino Moreno, Frank Delgado, Sergio Vega & Stephen Carpenter",
+                  "url": "https://music.apple.com/us/album/sextape/1099846321?i=1099846497",
+                  "playParams": {
+                    "id": "1099846497",
+                    "kind": "song"
+                  },
+                  "discNumber": 1,
+                  "hasLyrics": true,
+                  "isAppleDigitalMaster": true,
+                  "name": "Sextape",
+                  "previews": [
+                    {
+                      "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/f7/69/11/f76911a5-0094-02b5-41c6-68121ecda85f/mzaf_3735151766316973017.plus.aac.p.m4a"
+                    }
+                  ],
+                  "artistName": "Deftones"
+                },
+                "rank": 4,
+                "featured_album": false
+              },
+              "groupRank": 4,
+              "winner": null
+            },
+            "song2": {
+              "song": {
+                "id": "1099840920",
+                "type": "songs",
+                "href": "/v1/catalog/us/songs/1099840920",
+                "attributes": {
+                  "albumName": "Adrenaline",
+                  "genreNames": [
+                    "Hard Rock",
+                    "Music",
+                    "Rock",
+                    "Adult Alternative",
+                    "Alternative",
+                    "Metal"
+                  ],
+                  "trackNumber": 2,
+                  "releaseDate": "1995-10-03",
+                  "durationInMillis": 244467,
+                  "isrc": "USRE11600074",
+                  "artwork": {
+                    "width": 1425,
+                    "height": 1425,
+                    "url": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/fd/85/21/fd8521f1-98b0-d74b-6c5a-15a0fcc39e89/093624919810.jpg/{w}x{h}bb.jpg",
+                    "bgColor": "faf1f2",
+                    "textColor1": "000000",
+                    "textColor2": "110d0e",
+                    "textColor3": "323030",
+                    "textColor4": "3f3a3b"
+                  },
+                  "composerName": "Abe Cunningham, Chi Cheng, Chino Moreno & Stephen Carpenter",
+                  "url": "https://music.apple.com/us/album/minus-blindfold/1099840917?i=1099840920",
+                  "playParams": {
+                    "id": "1099840920",
+                    "kind": "song"
+                  },
+                  "discNumber": 1,
+                  "hasLyrics": true,
+                  "isAppleDigitalMaster": true,
+                  "name": "Minus Blindfold",
+                  "previews": [
+                    {
+                      "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/ab/91/99/ab919918-1a12-05c5-1ac7-7d60c617b5a6/mzaf_6836541382298164365.plus.aac.p.m4a"
+                    }
+                  ],
+                  "contentRating": "explicit",
+                  "artistName": "Deftones"
+                },
+                "rank": 61,
+                "featured_album": false
+              },
+              "groupRank": 61,
+              "winner": null
+            }
+          }
+        },
+        {
+          "matchupId": "10998463641099847185",
+          "round": 1,
+          "attributes": {
+            "complete": true,
+            "song1": {
+              "song": {
+                "id": "1099846364",
+                "type": "songs",
+                "href": "/v1/catalog/us/songs/1099846364",
+                "attributes": {
+                  "albumName": "Diamond Eyes (Deluxe Edition)",
+                  "genreNames": [
+                    "Hard Rock",
+                    "Music",
+                    "Rock",
+                    "Metal"
+                  ],
+                  "trackNumber": 1,
+                  "releaseDate": "2010-03-23",
+                  "durationInMillis": 188320,
+                  "isrc": "USRE11600059",
+                  "artwork": {
+                    "width": 1425,
+                    "height": 1425,
+                    "url": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/cd/bd/cb/cdbdcbfd-0b6e-93ff-61f7-04c9d5da7368/093624919759.jpg/{w}x{h}bb.jpg",
+                    "bgColor": "c3c5c0",
+                    "textColor1": "000000",
+                    "textColor2": "272a27",
+                    "textColor3": "272726",
+                    "textColor4": "464945"
+                  },
+                  "composerName": "Abe Cunningham, Chino Moreno, Frank Delgado, Sergio Vega & Stephen Carpenter",
+                  "url": "https://music.apple.com/us/album/diamond-eyes/1099846321?i=1099846364",
+                  "playParams": {
+                    "id": "1099846364",
+                    "kind": "song"
+                  },
+                  "discNumber": 1,
+                  "isAppleDigitalMaster": true,
+                  "hasLyrics": true,
+                  "name": "Diamond Eyes",
+                  "previews": [
+                    {
+                      "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/b5/4c/51/b54c51ec-d312-d3ab-ca02-199b993dd893/mzaf_5718802192879119419.plus.aac.p.m4a"
+                    }
+                  ],
+                  "artistName": "Deftones"
+                },
+                "rank": 8,
+                "featured_album": false
+              },
+              "groupRank": 8,
+              "winner": null
+            },
+            "song2": {
+              "song": {
+                "id": "1099847185",
+                "type": "songs",
+                "href": "/v1/catalog/us/songs/1099847185",
+                "attributes": {
+                  "albumName": "Deftones",
+                  "genreNames": [
+                    "Hard Rock",
+                    "Music",
+                    "Rock",
+                    "Hair Metal",
+                    "Metal"
+                  ],
+                  "trackNumber": 4,
+                  "releaseDate": "2003-05-20",
+                  "durationInMillis": 208280,
+                  "isrc": "USRE11600109",
+                  "artwork": {
+                    "width": 1425,
+                    "height": 1425,
+                    "url": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/22/c9/01/22c9019c-96d8-d32f-26a9-bf98c9541df2/093624919780.jpg/{w}x{h}bb.jpg",
+                    "bgColor": "000111",
+                    "textColor1": "fdfdfd",
+                    "textColor2": "85c5f4",
+                    "textColor3": "cacacd",
+                    "textColor4": "6a9ec6"
+                  },
+                  "composerName": "Abe Cunningham, Chi Cheng, Chino Moreno, Frank Delgado & Stephen Carpenter",
+                  "url": "https://music.apple.com/us/album/good-morning-beautiful/1099847180?i=1099847185",
+                  "playParams": {
+                    "id": "1099847185",
+                    "kind": "song"
+                  },
+                  "discNumber": 1,
+                  "isAppleDigitalMaster": true,
+                  "hasLyrics": true,
+                  "name": "Good Morning Beautiful",
+                  "previews": [
+                    {
+                      "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/41/2a/e2/412ae22b-b0c3-cd02-2e59-321dae949682/mzaf_4613658903614610178.plus.aac.p.m4a"
+                    }
+                  ],
+                  "artistName": "Deftones"
+                },
+                "rank": 57,
+                "featured_album": false
+              },
+              "groupRank": 57,
+              "winner": null
+            }
+          }
+        },
+        {
+          "matchupId": "1528075505645568892",
+          "round": 1,
+          "attributes": {
+            "complete": true,
+            "song1": {
+              "song": {
+                "id": "1528075505",
+                "type": "songs",
+                "href": "/v1/catalog/us/songs/1528075505",
+                "attributes": {
+                  "albumName": "Ohms",
+                  "genreNames": [
+                    "Rock",
+                    "Music"
+                  ],
+                  "trackNumber": 10,
+                  "releaseDate": "2020-08-21",
+                  "durationInMillis": 250222,
+                  "isrc": "USRE12000802",
+                  "artwork": {
+                    "width": 1500,
+                    "height": 1500,
+                    "url": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/b4/b6/1a/b4b61aee-c236-4061-55de-15c8a57ca32a/093624892120.jpg/{w}x{h}bb.jpg",
+                    "bgColor": "000000",
+                    "textColor1": "fdfdfd",
+                    "textColor2": "c8c8c8",
+                    "textColor3": "cacaca",
+                    "textColor4": "a0a0a0"
+                  },
+                  "composerName": "Abe Cunningham, Chino Moreno, Frank Delgado, Sergio Vega & Stephen Carpenter",
+                  "url": "https://music.apple.com/us/album/ohms/1528075495?i=1528075505",
+                  "playParams": {
+                    "id": "1528075505",
+                    "kind": "song"
+                  },
+                  "discNumber": 1,
+                  "hasLyrics": true,
+                  "isAppleDigitalMaster": true,
+                  "name": "Ohms",
+                  "previews": [
+                    {
+                      "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/8e/8e/b3/8e8eb336-1ea9-1cb7-ca01-c5771051144e/mzaf_11524443220144127435.plus.aac.p.m4a"
+                    }
+                  ],
+                  "artistName": "Deftones"
+                },
+                "rank": 12,
+                "featured_album": false
+              },
+              "groupRank": 12,
+              "winner": null
+            },
+            "song2": {
+              "song": {
+                "id": "645568892",
+                "type": "songs",
+                "href": "/v1/catalog/us/songs/645568892",
+                "attributes": {
+                  "albumName": "The Crow (City of Angels) [Original Motion Picture Soundtrack]",
+                  "genreNames": [
+                    "Soundtrack",
+                    "Music",
+                    "Rock"
+                  ],
+                  "trackNumber": 11,
+                  "releaseDate": "1996-08-30",
+                  "durationInMillis": 214733,
+                  "isrc": "USAE81376061",
+                  "artwork": {
+                    "width": 1400,
+                    "height": 1400,
+                    "url": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/66/01/f6/6601f673-d6b6-ebd2-5cf4-f71d9dc82ce6/0091131197035.jpg/{w}x{h}bb.jpg",
+                    "bgColor": "000000",
+                    "textColor1": "f6c587",
+                    "textColor2": "db9c58",
+                    "textColor3": "c49e6c",
+                    "textColor4": "af7d46"
+                  },
+                  "url": "https://music.apple.com/us/album/teething/645568729?i=645568892",
+                  "playParams": {
+                    "id": "645568892",
+                    "kind": "song"
+                  },
+                  "discNumber": 1,
+                  "isAppleDigitalMaster": false,
+                  "hasLyrics": true,
+                  "name": "Teething",
+                  "previews": [
+                    {
+                      "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/aa/18/13/aa18136d-a126-0994-918e-ab27daa10672/mzaf_14144634605761062390.plus.aac.p.m4a"
+                    }
+                  ],
+                  "artistName": "Deftones"
+                },
+                "rank": 53,
+                "featured_album": false
+              },
+              "groupRank": 53,
+              "winner": null
+            }
+          }
+        },
+        {
+          "matchupId": "10998487161099840925",
+          "round": 1,
+          "attributes": {
+            "complete": true,
+            "song1": {
+              "song": {
+                "id": "1099848716",
+                "type": "songs",
+                "href": "/v1/catalog/us/songs/1099848716",
+                "attributes": {
+                  "albumName": "White Pony",
+                  "genreNames": [
+                    "Hard Rock",
+                    "Music",
+                    "Rock",
+                    "Alternative",
+                    "Adult Alternative",
+                    "Metal"
+                  ],
+                  "trackNumber": 1,
+                  "releaseDate": "2000-06-20",
+                  "durationInMillis": 237427,
+                  "isrc": "USRE11600094",
+                  "artwork": {
+                    "width": 1425,
+                    "height": 1425,
+                    "url": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/96/51/57/96515710-cf91-0663-6f5a-942acf6ea31b/093624919797.jpg/{w}x{h}bb.jpg",
+                    "bgColor": "3a4784",
+                    "textColor1": "ffffff",
+                    "textColor2": "ffffff",
+                    "textColor3": "d7dae6",
+                    "textColor4": "d7dae6"
+                  },
+                  "composerName": "Abe Cunningham, Chi Cheng, Chino Moreno & Stephen Carpenter",
+                  "url": "https://music.apple.com/us/album/back-to-school-mini-maggit/1099848709?i=1099848716",
+                  "playParams": {
+                    "id": "1099848716",
+                    "kind": "song"
+                  },
+                  "discNumber": 1,
+                  "isAppleDigitalMaster": true,
+                  "hasLyrics": true,
+                  "name": "Back to School (Mini Maggit)",
+                  "previews": [
+                    {
+                      "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/6c/b7/32/6cb7325e-d332-b394-f466-289bacee47e1/mzaf_698154823442064342.plus.aac.p.m4a"
+                    }
+                  ],
+                  "artistName": "Deftones"
+                },
+                "rank": 16,
+                "featured_album": true
+              },
+              "groupRank": 16,
+              "winner": null
+            },
+            "song2": {
+              "song": {
+                "id": "1099840925",
+                "type": "songs",
+                "href": "/v1/catalog/us/songs/1099840925",
+                "attributes": {
+                  "albumName": "Adrenaline",
+                  "genreNames": [
+                    "Hard Rock",
+                    "Music",
+                    "Rock",
+                    "Adult Alternative",
+                    "Alternative",
+                    "Metal"
+                  ],
+                  "trackNumber": 6,
+                  "releaseDate": "1995-10-03",
+                  "durationInMillis": 220880,
+                  "isrc": "USRE11600078",
+                  "artwork": {
+                    "width": 1425,
+                    "height": 1425,
+                    "url": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/fd/85/21/fd8521f1-98b0-d74b-6c5a-15a0fcc39e89/093624919810.jpg/{w}x{h}bb.jpg",
+                    "bgColor": "faf1f2",
+                    "textColor1": "000000",
+                    "textColor2": "110d0e",
+                    "textColor3": "323030",
+                    "textColor4": "3f3a3b"
+                  },
+                  "composerName": "Abe Cunningham, Chi Cheng, Chino Moreno & Stephen Carpenter",
+                  "url": "https://music.apple.com/us/album/root/1099840917?i=1099840925",
+                  "playParams": {
+                    "id": "1099840925",
+                    "kind": "song"
+                  },
+                  "discNumber": 1,
+                  "isAppleDigitalMaster": true,
+                  "hasLyrics": true,
+                  "name": "Root",
+                  "previews": [
+                    {
+                      "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/bf/0c/42/bf0c42e5-9dfb-5359-1ac7-4e42c62fb7ba/mzaf_13687780931868818438.plus.aac.p.m4a"
+                    }
+                  ],
+                  "artistName": "Deftones",
+                  "contentRating": "explicit"
+                },
+                "rank": 49,
+                "featured_album": false
+              },
+              "groupRank": 49,
+              "winner": null
+            }
+          }
+        },
+        {
+          "matchupId": "10998464891528075500",
+          "round": 1,
+          "attributes": {
+            "complete": true,
+            "song1": {
+              "song": {
+                "id": "1099846489",
+                "type": "songs",
+                "href": "/v1/catalog/us/songs/1099846489",
+                "attributes": {
+                  "albumName": "Diamond Eyes (Deluxe Edition)",
+                  "genreNames": [
+                    "Hard Rock",
+                    "Music",
+                    "Rock",
+                    "Metal"
+                  ],
+                  "trackNumber": 5,
+                  "releaseDate": "2010-05-04",
+                  "durationInMillis": 287813,
+                  "isrc": "USRE11600063",
+                  "artwork": {
+                    "width": 1425,
+                    "height": 1425,
+                    "url": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/cd/bd/cb/cdbdcbfd-0b6e-93ff-61f7-04c9d5da7368/093624919759.jpg/{w}x{h}bb.jpg",
+                    "bgColor": "c3c5c0",
+                    "textColor1": "000000",
+                    "textColor2": "272a27",
+                    "textColor3": "272726",
+                    "textColor4": "464945"
+                  },
+                  "composerName": "Abe Cunningham, Chino Moreno, Frank Delgado, Sergio Vega & Stephen Carpenter",
+                  "url": "https://music.apple.com/us/album/beauty-school/1099846321?i=1099846489",
+                  "playParams": {
+                    "id": "1099846489",
+                    "kind": "song"
+                  },
+                  "discNumber": 1,
+                  "hasLyrics": true,
+                  "isAppleDigitalMaster": true,
+                  "name": "Beauty School",
+                  "previews": [
+                    {
+                      "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/0d/85/8f/0d858f98-3325-1ab7-c473-3768368f85ce/mzaf_15821783321585767923.plus.aac.p.m4a"
+                    }
+                  ],
+                  "artistName": "Deftones"
+                },
+                "rank": 20,
+                "featured_album": false
+              },
+              "groupRank": 20,
+              "winner": null
+            },
+            "song2": {
+              "song": {
+                "id": "1528075500",
+                "type": "songs",
+                "href": "/v1/catalog/us/songs/1528075500",
+                "attributes": {
+                  "albumName": "Ohms",
+                  "genreNames": [
+                    "Hard Rock",
+                    "Music",
+                    "Rock"
+                  ],
+                  "trackNumber": 5,
+                  "releaseDate": "2020-09-25",
+                  "durationInMillis": 327512,
+                  "isrc": "USRE12000797",
+                  "artwork": {
+                    "width": 1500,
+                    "height": 1500,
+                    "url": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/b4/b6/1a/b4b61aee-c236-4061-55de-15c8a57ca32a/093624892120.jpg/{w}x{h}bb.jpg",
+                    "bgColor": "000000",
+                    "textColor1": "fdfdfd",
+                    "textColor2": "c8c8c8",
+                    "textColor3": "cacaca",
+                    "textColor4": "a0a0a0"
+                  },
+                  "composerName": "Abe Cunningham, Chino Moreno, Frank Delgado, Sergio Vega & Stephen Carpenter",
+                  "url": "https://music.apple.com/us/album/the-spell-of-mathematics/1528075495?i=1528075500",
+                  "playParams": {
+                    "id": "1528075500",
+                    "kind": "song"
+                  },
+                  "discNumber": 1,
+                  "hasLyrics": true,
+                  "isAppleDigitalMaster": true,
+                  "name": "The Spell of Mathematics",
+                  "previews": [
+                    {
+                      "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/a8/3c/94/a83c94e4-55e9-2064-109f-1dd5b82f58b9/mzaf_16095834976949872454.plus.aac.p.m4a"
+                    }
+                  ],
+                  "artistName": "Deftones"
+                },
+                "rank": 45,
+                "featured_album": false
+              },
+              "groupRank": 45,
+              "winner": null
+            }
+          }
+        },
+        {
+          "matchupId": "10998413501099848804",
+          "round": 1,
+          "attributes": {
+            "complete": true,
+            "song1": {
+              "song": {
+                "id": "1099841350",
+                "type": "songs",
+                "href": "/v1/catalog/us/songs/1099841350",
+                "attributes": {
+                  "albumName": "Covers",
+                  "genreNames": [
+                    "Hard Rock",
+                    "Music",
+                    "Rock",
+                    "Metal",
+                    "Alternative"
+                  ],
+                  "trackNumber": 3,
+                  "releaseDate": "2005-10-04",
+                  "durationInMillis": 124173,
+                  "isrc": "USMV20500178",
+                  "artwork": {
+                    "width": 1425,
+                    "height": 1425,
+                    "url": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/c7/c9/92/c7c99256-cb22-ed37-c7ca-2f0d2800bcb8/093624919735.jpg/{w}x{h}bb.jpg",
+                    "bgColor": "9b9794",
+                    "textColor1": "090808",
+                    "textColor2": "201e1e",
+                    "textColor3": "262424",
+                    "textColor4": "393635"
+                  },
+                  "composerName": "Johnny Marr & Morrissey",
+                  "url": "https://music.apple.com/us/album/please-please-please-let-me-get-what-i-want/1099841342?i=1099841350",
+                  "playParams": {
+                    "id": "1099841350",
+                    "kind": "song"
+                  },
+                  "discNumber": 1,
+                  "hasLyrics": true,
+                  "isAppleDigitalMaster": false,
+                  "name": "Please, Please, Please Let Me Get What I Want",
+                  "previews": [
+                    {
+                      "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/1e/98/cb/1e98cbff-dca9-eb7d-b0c5-876fcbb69151/mzaf_15341375417325479839.plus.aac.p.m4a"
+                    }
+                  ],
+                  "artistName": "Deftones"
+                },
+                "rank": 24,
+                "featured_album": false
+              },
+              "groupRank": 24,
+              "winner": null
+            },
+            "song2": {
+              "song": {
+                "id": "1099848804",
+                "type": "songs",
+                "href": "/v1/catalog/us/songs/1099848804",
+                "attributes": {
+                  "albumName": "White Pony",
+                  "genreNames": [
+                    "Hard Rock",
+                    "Music",
+                    "Rock",
+                    "Alternative",
+                    "Adult Alternative",
+                    "Metal"
+                  ],
+                  "trackNumber": 7,
+                  "releaseDate": "2000-06-20",
+                  "durationInMillis": 200520,
+                  "isrc": "USRE11600100",
+                  "artwork": {
+                    "width": 1425,
+                    "height": 1425,
+                    "url": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/96/51/57/96515710-cf91-0663-6f5a-942acf6ea31b/093624919797.jpg/{w}x{h}bb.jpg",
+                    "bgColor": "3a4784",
+                    "textColor1": "ffffff",
+                    "textColor2": "ffffff",
+                    "textColor3": "d7dae6",
+                    "textColor4": "d7dae6"
+                  },
+                  "composerName": "Abe Cunningham, Chi Cheng, Chino Moreno, Frank Delgado & Stephen Carpenter",
+                  "url": "https://music.apple.com/us/album/teenager/1099848709?i=1099848804",
+                  "playParams": {
+                    "id": "1099848804",
+                    "kind": "song"
+                  },
+                  "discNumber": 1,
+                  "isAppleDigitalMaster": true,
+                  "hasLyrics": true,
+                  "name": "Teenager",
+                  "previews": [
+                    {
+                      "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/7f/aa/80/7faa8072-8951-6d0d-d541-03dd9d2a61ec/mzaf_17434114286129058094.plus.aac.p.m4a"
+                    }
+                  ],
+                  "artistName": "Deftones"
+                },
+                "rank": 41,
+                "featured_album": true
+              },
+              "groupRank": 41,
+              "winner": null
+            }
+          }
+        },
+        {
+          "matchupId": "10998463841099843337",
+          "round": 1,
+          "attributes": {
+            "complete": true,
+            "song1": {
+              "song": {
+                "id": "1099846384",
+                "type": "songs",
+                "href": "/v1/catalog/us/songs/1099846384",
+                "attributes": {
+                  "albumName": "Diamond Eyes (Deluxe Edition)",
+                  "genreNames": [
+                    "Hard Rock",
+                    "Music",
+                    "Rock",
+                    "Metal"
+                  ],
+                  "trackNumber": 4,
+                  "releaseDate": "2010-04-30",
+                  "durationInMillis": 211133,
+                  "isrc": "USRE11600062",
+                  "artwork": {
+                    "width": 1425,
+                    "height": 1425,
+                    "url": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/cd/bd/cb/cdbdcbfd-0b6e-93ff-61f7-04c9d5da7368/093624919759.jpg/{w}x{h}bb.jpg",
+                    "bgColor": "c3c5c0",
+                    "textColor1": "000000",
+                    "textColor2": "272a27",
+                    "textColor3": "272726",
+                    "textColor4": "464945"
+                  },
+                  "composerName": "Abe Cunningham, Chino Moreno, Frank Delgado, Sergio Vega & Stephen Carpenter",
+                  "url": "https://music.apple.com/us/album/youve-seen-the-butcher/1099846321?i=1099846384",
+                  "playParams": {
+                    "id": "1099846384",
+                    "kind": "song"
+                  },
+                  "discNumber": 1,
+                  "isAppleDigitalMaster": true,
+                  "hasLyrics": true,
+                  "name": "You've Seen the Butcher",
+                  "previews": [
+                    {
+                      "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/e0/90/c6/e090c664-63eb-82b3-faa3-d1af26a9da34/mzaf_3130580779769319849.plus.aac.p.m4a"
+                    }
+                  ],
+                  "artistName": "Deftones"
+                },
+                "rank": 28,
+                "featured_album": false
+              },
+              "groupRank": 28,
+              "winner": null
+            },
+            "song2": {
+              "song": {
+                "id": "1099843337",
+                "type": "songs",
+                "href": "/v1/catalog/us/songs/1099843337",
+                "attributes": {
+                  "albumName": "Around the Fur",
+                  "genreNames": [
+                    "Hard Rock",
+                    "Music",
+                    "Rock"
+                  ],
+                  "trackNumber": 7,
+                  "releaseDate": "1997-10-28",
+                  "durationInMillis": 237800,
+                  "isrc": "USRE11600090",
+                  "artwork": {
+                    "width": 1425,
+                    "height": 1425,
+                    "url": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/27/cb/b4/27cbb40e-f8c6-dede-9c69-62089a873fa9/093624919803.jpg/{w}x{h}bb.jpg",
+                    "bgColor": "060208",
+                    "textColor1": "f0aa8c",
+                    "textColor2": "da7e77",
+                    "textColor3": "c18972",
+                    "textColor4": "b06561"
+                  },
+                  "composerName": "Abe Cunningham, Chi Cheng, Chino Moreno & Stephen Carpenter",
+                  "url": "https://music.apple.com/us/album/lotion/1099843198?i=1099843337",
+                  "playParams": {
+                    "id": "1099843337",
+                    "kind": "song"
+                  },
+                  "discNumber": 1,
+                  "isAppleDigitalMaster": true,
+                  "hasLyrics": true,
+                  "name": "Lotion",
+                  "previews": [
+                    {
+                      "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/93/55/bc/9355bc42-6b81-35b8-9755-c62cb345f2e9/mzaf_10630403562106332515.plus.aac.p.m4a"
+                    }
+                  ],
+                  "contentRating": "explicit",
+                  "artistName": "Deftones"
+                },
+                "rank": 37,
+                "featured_album": true
+              },
+              "groupRank": 37,
+              "winner": null
+            }
+          }
+        },
+        {
+          "matchupId": "15280754971099840929",
+          "round": 1,
+          "attributes": {
+            "complete": true,
+            "song1": {
+              "song": {
+                "id": "1528075497",
+                "type": "songs",
+                "href": "/v1/catalog/us/songs/1528075497",
+                "attributes": {
+                  "albumName": "Ohms",
+                  "genreNames": [
+                    "Hard Rock",
+                    "Music",
+                    "Rock"
+                  ],
+                  "trackNumber": 2,
+                  "releaseDate": "2020-09-25",
+                  "durationInMillis": 207752,
+                  "isrc": "USRE12000794",
+                  "artwork": {
+                    "width": 1500,
+                    "height": 1500,
+                    "url": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/b4/b6/1a/b4b61aee-c236-4061-55de-15c8a57ca32a/093624892120.jpg/{w}x{h}bb.jpg",
+                    "bgColor": "000000",
+                    "textColor1": "fdfdfd",
+                    "textColor2": "c8c8c8",
+                    "textColor3": "cacaca",
+                    "textColor4": "a0a0a0"
+                  },
+                  "composerName": "Abe Cunningham, Chino Moreno, Frank Delgado, Sergio Vega & Stephen Carpenter",
+                  "url": "https://music.apple.com/us/album/ceremony/1528075495?i=1528075497",
+                  "playParams": {
+                    "id": "1528075497",
+                    "kind": "song"
+                  },
+                  "discNumber": 1,
+                  "isAppleDigitalMaster": true,
+                  "hasLyrics": true,
+                  "name": "Ceremony",
+                  "previews": [
+                    {
+                      "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/4d/65/05/4d650599-c5be-9925-85a0-8df392c882f9/mzaf_4841558299062522607.plus.aac.p.m4a"
+                    }
+                  ],
+                  "artistName": "Deftones"
+                },
+                "rank": 32,
+                "featured_album": false
+              },
+              "groupRank": 32,
+              "winner": null
+            },
+            "song2": {
+              "song": {
+                "id": "1099840929",
+                "type": "songs",
+                "href": "/v1/catalog/us/songs/1099840929",
+                "attributes": {
+                  "albumName": "Adrenaline",
+                  "genreNames": [
+                    "Hard Rock",
+                    "Music",
+                    "Rock",
+                    "Adult Alternative",
+                    "Alternative",
+                    "Metal"
+                  ],
+                  "trackNumber": 9,
+                  "releaseDate": "1995-10-03",
+                  "durationInMillis": 204947,
+                  "isrc": "USRE11600081",
+                  "artwork": {
+                    "width": 1425,
+                    "height": 1425,
+                    "url": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/fd/85/21/fd8521f1-98b0-d74b-6c5a-15a0fcc39e89/093624919810.jpg/{w}x{h}bb.jpg",
+                    "bgColor": "faf1f2",
+                    "textColor1": "000000",
+                    "textColor2": "110d0e",
+                    "textColor3": "323030",
+                    "textColor4": "3f3a3b"
+                  },
+                  "composerName": "Abe Cunningham, Chi Cheng, Chino Moreno & Stephen Carpenter",
+                  "url": "https://music.apple.com/us/album/engine-no-9/1099840917?i=1099840929",
+                  "playParams": {
+                    "id": "1099840929",
+                    "kind": "song"
+                  },
+                  "discNumber": 1,
+                  "isAppleDigitalMaster": true,
+                  "hasLyrics": true,
+                  "name": "Engine No. 9",
+                  "previews": [
+                    {
+                      "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/e9/19/33/e9193342-2f68-f001-9634-de98e71792c0/mzaf_2499635750756575205.plus.aac.p.m4a"
+                    }
+                  ],
+                  "artistName": "Deftones",
+                  "contentRating": "explicit"
+                },
+                "rank": 33,
+                "featured_album": false
+              },
+              "groupRank": 33,
+              "winner": null
+            }
+          }
+        }
+      ],
+      "progress": 1
+    },
+    "round2": {
+      "progress": 1,
+      "roundMatchups": [
+        {
+          "matchupId": "10998464971099846364",
+          "round": 2,
+          "attributes": {
+            "complete": true,
+            "song1": {
+              "groupRank": 4,
+              "winner": null
+            },
+            "song2": {
+              "groupRank": 8,
+              "winner": null
+            }
+          }
+        },
+        {
+          "matchupId": "15280755051099848716",
+          "round": 2,
+          "attributes": {
+            "complete": true,
+            "song1": {
+              "groupRank": 12,
+              "winner": null
+            },
+            "song2": {
+              "groupRank": 16,
+              "winner": null
+            }
+          }
+        },
+        {
+          "matchupId": "10998464891099841350",
+          "round": 2,
+          "attributes": {
+            "complete": true,
+            "song1": {
+              "groupRank": 20,
+              "winner": null
+            },
+            "song2": {
+              "groupRank": 24,
+              "winner": null
+            }
+          }
+        },
+        {
+          "matchupId": "10998463841099840929",
+          "round": 2,
+          "attributes": {
+            "complete": true,
+            "song1": {
+              "groupRank": 28,
+              "winner": null
+            },
+            "song2": {
+              "groupRank": 33,
+              "winner": null
+            }
+          }
+        }
+      ]
+    },
+    "round3": {
+      "progress": 1,
+      "roundMatchups": [
+        {
+          "matchupId": "10998464971528075505",
+          "round": 3,
+          "attributes": {
+            "complete": true,
+            "song1": {
+              "groupRank": 4,
+              "winner": null
+            },
+            "song2": {
+              "groupRank": 12,
+              "winner": null
+            }
+          }
+        },
+        {
+          "matchupId": "10998464891099840929",
+          "round": 3,
+          "attributes": {
+            "complete": true,
+            "song1": {
+              "groupRank": 20,
+              "winner": null
+            },
+            "song2": {
+              "groupRank": 33,
+              "winner": null
+            }
+          }
+        }
+      ]
+    },
+    "round4": {
+      "progress": 1,
+      "roundMatchups": [
+        {
+          "matchupId": "15280755051099840929",
+          "round": 4,
+          "attributes": {
+            "complete": true,
+            "song1": {
+              "groupRank": 12,
+              "winner": null
+            },
+            "song2": {
+              "groupRank": 33,
+              "winner": null
+            }
+          }
+        }
+      ]
+    }
+  }
+}
