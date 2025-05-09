@@ -34,7 +34,6 @@ function drawBracket() {
   strokeWeight(bracketWeight);
   round1(55, 'rgb(61,1,1)', 10, 200)
   round1(55, 'rgb(58,0,61)', width - 10, width - 200)
-
   
   round2(55 + (matchUpHeight / 2), 'rgb(14,0,15)', 200, 200 + 190)
   round2(55 + (matchUpHeight / 2), '#382A00', width - (200), width - (420))
@@ -55,56 +54,54 @@ function drawBracket() {
   round6(height - (height / 3), '#001308');
 }
 
+function bracketContent(yStart, group, iteration, lineStartX, lineEndX, yStart, color) {
+  // console.log("bracketContent");
+  stroke(color);
+  strokeWeight(bracketWeight);
+  line(lineStartX, yStart, lineEndX, yStart);
+  line(lineEndX, yStart, lineEndX, yStart + matchUpHeight)
+  line(lineEndX, yStart + matchUpHeight, lineStartX, yStart + matchUpHeight)
+  bracketContentSong(yStart, group[iteration].attributes.song1.song.attributes.artwork.bgColor, group[iteration].attributes.song1.song.attributes.name, group[iteration].attributes.song1.song.attributes.artwork.textColor1);
+
+  noStroke()
+  fill(100, 150, 255);
+  rect(3, yStart + 40, 200, 20);
+    
+  fill(0);
+  textSize(24);
+  text(group[iteration].attributes.song2.song.attributes.name, 6, yStart + matchUpHeight + 8);
+}
+
+function bracketContentSong(yStart, bgColor, songName, textColor) {
+  noStroke();
+  text(`#${bgColor}`, 440, yStart)
+  fill(`#${bgColor}`);
+  rect(3, yStart - 3, 200, 20);
+
+
+  fill(`#${textColor}`)
+  textSize(24)
+  text(songName, 6, yStart + 5);
+}
+
 function round1(yStart, color, lineStartX, lineEndX) {
   var group1round1 = jsonData.group1.round1.roundMatchups;
-  // console.log(jsonData.group1.round1.roundMatchups.length)
   for (let r = 0; r < group1round1.length; r++) {
-    // Style the line.
-    stroke(color);
-    strokeWeight(bracketWeight);
-    line(lineStartX, yStart, lineEndX, yStart);
-    line(lineEndX, yStart, lineEndX, yStart + matchUpHeight)
-    line(lineEndX, yStart + matchUpHeight, lineStartX, yStart + matchUpHeight)
-    
-    
-    // Add Text
-
-    // strokeWeight(textWeight);
-    noStroke();
-    fill(100, 150, 255);
-    rect(3, yStart - 3, 200, 20);
-    
-    fill(0)
-    textSize(24)
-    text(group1round1[r].attributes.song1.song.attributes.name, 6, yStart + 5);
-    // Next 
-    noStroke()
-    fill(100, 150, 255);
-    rect(3, yStart + 40, 200, 20);
-    
-    fill(0);
-    textSize(24);
-    text(group1round1[r].attributes.song2.song.attributes.name, 6, yStart + matchUpHeight + 8);
-    
+    bracketContent(yStart, group1round1, r, lineStartX, lineEndX, yStart, color);
     yStart += matchUpHeight + matchUpSpace;
-
   }
   
   // GROUP 2
   var group2round1 = jsonData.group2.round1.roundMatchups;
 
   for (let r = 0; r < group2round1.length; r++) {
-    // Style the line.
+    /*
     stroke(color);
     strokeWeight(bracketWeight);
     line(lineStartX, yStart, lineEndX, yStart);
     line(lineEndX, yStart, lineEndX, yStart + matchUpHeight)
     line(lineEndX, yStart + matchUpHeight, lineStartX, yStart + matchUpHeight)
     
-    
-    // Add Text
-
-    // strokeWeight(textWeight);
     noStroke();
     
     fill(`#${JSON.stringify(group2round1[r].attributes.song1.song.attributes.artwork.bgColor)}`);
@@ -113,7 +110,6 @@ function round1(yStart, color, lineStartX, lineEndX) {
     fill(0);
     textSize(14);
     text(group2round1[r].attributes.song1.song.attributes.name, 6, yStart + 5);
-    // Next 
     noStroke()
     let {bgColor, textColor1} = group2round1[r].attributes.song2.song.attributes.artwork
     fill(`#${bgColor}`);
@@ -122,7 +118,8 @@ function round1(yStart, color, lineStartX, lineEndX) {
     fill(`#${textColor1}`);
     textSize(24);
     text(group2round1[r].attributes.song2.song.attributes.name, 6, yStart + matchUpHeight + 8);
-    
+    */
+    bracketContent(yStart, group2round1, r, lineStartX, lineEndX, yStart, color);
     yStart += matchUpHeight + matchUpSpace;
 
   }
