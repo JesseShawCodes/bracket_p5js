@@ -1,4 +1,5 @@
 const bracketWeight = 5;
+const bracketColor = "#000"
 const textWeight = 1;
 const matchUpSpace = 60;
 const matchUpHeight = 60;
@@ -8,14 +9,15 @@ const numRounds = Math.log2(numTeams);
 let rounds = [];
 let teams = [];
 
+// Song boxes
+let padding = 20;
+
 // Load the GeoJSON and preprocess it.
 function preload() {
   jsonData = loadJSON('data.json')
 }
 function setup() {
   createCanvas(3200, 3800);
-  // textAlign(CENTER, CENTER); // Center the text
-  // rectMode(CENTER);          // Center the rectangle
 }
 
 function draw() {
@@ -27,31 +29,30 @@ function initializeTeams() {
   for (let i = 0; i < numTeams; i++) {
     teams.push(`Team ${i + 1}`);
   }
-  // console.log(teams);
 }
 
 function drawBracket() {
   strokeWeight(bracketWeight);
-  round1(55, 'rgb(61,1,1)', 10, 200)
-  round1(55, 'rgb(58,0,61)', width - 10, width - 200)
+  round1(55, bracketColor, 10, 200)
+  round1(55, bracketColor, width - 10, width - 200)
   
-  round2(55 + (matchUpHeight / 2), 'rgb(14,0,15)', 200, 200 + 190)
-  round2(55 + (matchUpHeight / 2), '#382A00', width - (200), width - (420))
+  round2(55 + (matchUpHeight / 2), bracketColor, 200, 200 + 190)
+  round2(55 + (matchUpHeight / 2), bracketColor, width - (200), width - (420))
   
-  round3(55 + (matchUpHeight * 1.5), '#3D0026', 390, 640);
-  round3(55 + (matchUpHeight * 1.5), '#433C00', width - 420, width - 640);
+  round3(55 + (matchUpHeight * 1.5), bracketColor, 390, 640);
+  round3(55 + (matchUpHeight * 1.5), bracketColor, width - 420, width - 640);
   
-  round4(55 + (matchUpHeight * 3.5), '#433C00', 640, 1000);
-  round4(55 + (matchUpHeight * 3.5), '#433C00', width - 640, width - 1000);
+  round4(55 + (matchUpHeight * 3.5), bracketColor, 640, 1000);
+  round4(55 + (matchUpHeight * 3.5), bracketColor, width - 640, width - 1000);
   
   // Final Four
   
-  round5(55 + (matchUpHeight * 7), '#433C00', 1000, 1400);
-  round5(55 + (matchUpHeight * 7), '#433C00', width - 1000, width - 1400);
+  round5(55 + (matchUpHeight * 7), bracketColor, 1000, 1400);
+  round5(55 + (matchUpHeight * 7), bracketColor, width - 1000, width - 1400);
   
   // Championship
   
-  round6(height - (height / 3), '#001308');
+  round6(height - (height / 3), bracketColor);
 }
 
 function getSongAttributes(group, iteration, songKey) {
@@ -63,29 +64,23 @@ function bracketContent(yStart, group, iteration, lineStartX, lineEndX, yStart, 
   stroke(color);
   strokeWeight(bracketWeight);
   line(lineStartX, yStart, lineEndX, yStart);
-  line(lineEndX, yStart, lineEndX, yStart + matchUpHeight)
-  line(lineEndX, yStart + matchUpHeight, lineStartX, yStart + matchUpHeight)
-  var songAttrs = getSongAttributes(group, iteration, 'song1');
-  bracketContentSong(yStart, songAttrs.artwork.bgColor, songAttrs.name, songAttrs.artwork.textColor1);
-  var songAttrs = getSongAttributes(group, iteration, 'song1');
+  line(lineEndX, yStart, lineEndX, yStart + matchUpHeight);
+  line(lineEndX, yStart + matchUpHeight, lineStartX, yStart + matchUpHeight);
 
-  noStroke()
-  fill(100, 150, 255);
-  rect(3, yStart + 40, 200, 20);
-    
-  fill(0);
-  textSize(24);
-  text(group[iteration].attributes.song2.song.attributes.name, 6, yStart + matchUpHeight + 8);
+  var songAttrs = getSongAttributes(group, iteration, 'song1');
+  bracketContentSong(yStart, songAttrs.artwork.bgColor, songAttrs.name, songAttrs.artwork.textColor2);
+  var songAttrs = getSongAttributes(group, iteration, 'song2');
+  bracketContentSong(yStart + matchUpHeight, songAttrs.artwork.bgColor, songAttrs.name, songAttrs.artwork.textColor2);
 }
 
 function bracketContentSong(yStart, bgColor, songName, textColor) {
   noStroke();
   fill(`#${bgColor}`);
-  rect(3, yStart - 3, 200, 20);
+  rect(3, yStart - 20, textWidth(songName) + 2 * padding, 40);
 
   fill(`#${textColor}`)
-  textSize(24)
-  text(songName, 6, yStart + 5);
+  textSize(20)
+  text(songName, 10, yStart + 10);
 }
 
 function round1(yStart, color, lineStartX, lineEndX) {
