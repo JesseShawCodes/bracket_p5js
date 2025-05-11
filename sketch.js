@@ -12,10 +12,6 @@ let teams = [];
 // Song boxes
 let padding = 20;
 
-// 
-let leftBracket = ["group1", "group2"];
-let rightBracket = ["group3", "group4"];
-
 // Load the song and preprocess it.
 function preload() {
   jsonData = loadJSON('data.json')
@@ -32,8 +28,8 @@ function draw() {
 function drawBracket() {
   // round1(yStart, color, lineStartX, lineEndX, groupA, groupB)
   strokeWeight(bracketWeight);
-  round1(55, bracketColor, 10, 200, jsonData.group1.round1.roundMatchups, jsonData.group2.round1.roundMatchups)
-  round1(55, bracketColor, width - 10, width - 200, jsonData.group3.round1.roundMatchups, jsonData.group4.round1.roundMatchups)
+  round1(55, bracketColor, 10, 200, jsonData.group1.round1.roundMatchups, jsonData.group2.round1.roundMatchups, "left")
+  round1(55, bracketColor, width - 10, width - 200, jsonData.group3.round1.roundMatchups, jsonData.group4.round1.roundMatchups, "right")
   
   round2(55 + (matchUpHeight / 2), bracketColor, 200, 200 + 190)
   round2(55 + (matchUpHeight / 2), bracketColor, width - (200), width - (420))
@@ -58,7 +54,7 @@ function getSongAttributes(group, iteration, songKey) {
   return group[iteration].attributes[songKey]?.song?.attributes;
 }
 
-function bracketContent(yStart, group, iteration, lineStartX, lineEndX, yStart, color, songAttrs) {
+function bracketContent(yStart, group, iteration, lineStartX, lineEndX, yStart, color, position) {
   stroke(color);
   strokeWeight(bracketWeight);
   line(lineStartX, yStart, lineEndX, yStart);
@@ -66,27 +62,45 @@ function bracketContent(yStart, group, iteration, lineStartX, lineEndX, yStart, 
   line(lineEndX, yStart + matchUpHeight, lineStartX, yStart + matchUpHeight);
 
   var songAttrs = getSongAttributes(group, iteration, 'song1');
-  bracketContentSong(yStart, lineStartX, lineStartX, songAttrs.artwork.bgColor, songAttrs.name, songAttrs.artwork.textColor2);
+  bracketContentSong(
+    yStart, 
+    lineStartX, 
+    songAttrs.artwork.bgColor, 
+    songAttrs.name, 
+    songAttrs.artwork.textColor2, 
+    position
+  );
   var songAttrs = getSongAttributes(group, iteration, 'song2');
-  bracketContentSong(yStart + matchUpHeight, lineStartX, lineStartX, songAttrs.artwork.bgColor, songAttrs.name, songAttrs.artwork.textColor2, group);
+  bracketContentSong(
+    yStart + matchUpHeight, 
+    lineStartX, 
+    songAttrs.artwork.bgColor, 
+    songAttrs.name, 
+    songAttrs.artwork.textColor2, 
+    position
+  );
 }
 
-function bracketContentSong(yStart, rectStart, textStart, bgColor, songName, textColor, groupName) {
-  // text(JSON.stringify(groupName), 400, yStart)
+function bracketContentSong(yStart, rectStart, bgColor, songName, textColor, position) {
+  let rectWidth = textWidth(songName) + 2 * padding;
+  if (position === "right") {
+    var endX = width - 10;
+    rectStart = endX - rectWidth;
+  }
   noStroke();
   fill(`#${bgColor}`);
-  rect(rectStart, yStart - 20, textWidth(songName) + 2 * padding, 40);
+  rect(rectStart, yStart - 20, rectWidth, 40);
 
   fill(`#${textColor}`)
   textSize(20)
   text(songName, rectStart + (padding * 0.4), yStart + 10);
 }
 
-function round1(yStart, color, lineStartX, lineEndX, groupA, groupB) {
+function round1(yStart, color, lineStartX, lineEndX, groupA, groupB, position) {
   let groups = [groupA, groupB]
   for (let i = 0; i < groups.length; i++) {
     for (let r = 0; r < groups[i].length; r++) {
-      bracketContent(yStart, groups[i], r, lineStartX, lineEndX, yStart, color);
+      bracketContent(yStart, groups[i], r, lineStartX, lineEndX, yStart, color, position);
       yStart += matchUpHeight + matchUpSpace;
     }
   }
