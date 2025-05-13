@@ -1,0 +1,519 @@
+{
+    "round5": {
+        "progress": 1,
+        "roundMatchups": [
+            {
+                "matchupId": "10998508601099841638",
+                "attributes": {
+                    "complete": true,
+                    "song1": {
+                        "song": {
+                            "id": "1099850860",
+                            "type": "songs",
+                            "href": "/v1/catalog/us/songs/1099850860",
+                            "attributes": {
+                                "albumName": "Saturday Night Wrist (Bonus Track Version)",
+                                "genreNames": [
+                                    "Hard Rock",
+                                    "Music",
+                                    "Rock",
+                                    "Metal",
+                                    "Adult Alternative"
+                                ],
+                                "trackNumber": 11,
+                                "durationInMillis": 194373,
+                                "releaseDate": "2006-10-31",
+                                "isrc": "USRE11600127",
+                                "artwork": {
+                                    "width": 1425,
+                                    "height": 1425,
+                                    "url": "https://is1-ssl.mzstatic.com/image/thumb/Music49/v4/2e/12/19/2e121951-b104-af73-1952-93b3aaccabcf/093624919773.jpg/{w}x{h}bb.jpg",
+                                    "bgColor": "0a1616",
+                                    "textColor1": "d1d7ae",
+                                    "textColor2": "ceaa84",
+                                    "textColor3": "a9b190",
+                                    "textColor4": "a78c6e"
+                                },
+                                "composerName": "Abe Cunningham, Chi Cheng, Chino Moreno, Frank Delgado & Stephen Carpenter",
+                                "playParams": {
+                                    "id": "1099850860",
+                                    "kind": "song"
+                                },
+                                "url": "https://music.apple.com/us/album/kimdracula/1099850829?i=1099850860",
+                                "discNumber": 1,
+                                "isAppleDigitalMaster": true,
+                                "hasLyrics": true,
+                                "name": "Kimdracula",
+                                "previews": [
+                                    {
+                                        "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/e2/fe/19/e2fe1932-83a7-4164-4df2-4ffbfb569d4a/mzaf_11177952036552367946.plus.aac.p.m4a"
+                                    }
+                                ],
+                                "artistName": "Deftones"
+                            },
+                            "rank": 44,
+                            "featured_album": false
+                        },
+                        "groupRank": 44,
+                        "winner": null
+                    },
+                    "song2": {
+                        "song": {
+                            "id": "1099841638",
+                            "type": "songs",
+                            "href": "/v1/catalog/us/songs/1099841638",
+                            "attributes": {
+                                "albumName": "Covers",
+                                "genreNames": [
+                                    "Hard Rock",
+                                    "Music",
+                                    "Rock",
+                                    "Metal",
+                                    "Alternative"
+                                ],
+                                "trackNumber": 9,
+                                "releaseDate": "2005-10-04",
+                                "durationInMillis": 324253,
+                                "isrc": "USMV20500176",
+                                "artwork": {
+                                    "width": 1425,
+                                    "height": 1425,
+                                    "url": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/c7/c9/92/c7c99256-cb22-ed37-c7ca-2f0d2800bcb8/093624919735.jpg/{w}x{h}bb.jpg",
+                                    "bgColor": "9b9794",
+                                    "textColor1": "090808",
+                                    "textColor2": "201e1e",
+                                    "textColor3": "262424",
+                                    "textColor4": "393635"
+                                },
+                                "composerName": "Andy Taylor, John Taylor, Nick Rhodes, Roger Taylor & Simon Le Bon",
+                                "url": "https://music.apple.com/us/album/the-chauffeur/1099841342?i=1099841638",
+                                "playParams": {
+                                    "id": "1099841638",
+                                    "kind": "song"
+                                },
+                                "discNumber": 1,
+                                "hasLyrics": true,
+                                "isAppleDigitalMaster": false,
+                                "name": "The Chauffeur",
+                                "previews": [
+                                    {
+                                        "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/7f/c7/6f/7fc76f0f-cc3f-f42f-bc96-c6335820b577/mzaf_1578374249541163407.plus.aac.p.m4a"
+                                    }
+                                ],
+                                "artistName": "Deftones"
+                            },
+                            "rank": 55,
+                            "featured_album": false
+                        },
+                        "groupRank": 55,
+                        "winner": null
+                    },
+                    "winner": {
+                        "id": "1099850860",
+                        "type": "songs",
+                        "href": "/v1/catalog/us/songs/1099850860",
+                        "attributes": {
+                            "albumName": "Saturday Night Wrist (Bonus Track Version)",
+                            "genreNames": [
+                                "Hard Rock",
+                                "Music",
+                                "Rock",
+                                "Metal",
+                                "Adult Alternative"
+                            ],
+                            "trackNumber": 11,
+                            "durationInMillis": 194373,
+                            "releaseDate": "2006-10-31",
+                            "isrc": "USRE11600127",
+                            "artwork": {
+                                "width": 1425,
+                                "height": 1425,
+                                "url": "https://is1-ssl.mzstatic.com/image/thumb/Music49/v4/2e/12/19/2e121951-b104-af73-1952-93b3aaccabcf/093624919773.jpg/{w}x{h}bb.jpg",
+                                "bgColor": "0a1616",
+                                "textColor1": "d1d7ae",
+                                "textColor2": "ceaa84",
+                                "textColor3": "a9b190",
+                                "textColor4": "a78c6e"
+                            },
+                            "composerName": "Abe Cunningham, Chi Cheng, Chino Moreno, Frank Delgado & Stephen Carpenter",
+                            "playParams": {
+                                "id": "1099850860",
+                                "kind": "song"
+                            },
+                            "url": "https://music.apple.com/us/album/kimdracula/1099850829?i=1099850860",
+                            "discNumber": 1,
+                            "isAppleDigitalMaster": true,
+                            "hasLyrics": true,
+                            "name": "Kimdracula",
+                            "previews": [
+                                {
+                                    "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/e2/fe/19/e2fe1932-83a7-4164-4df2-4ffbfb569d4a/mzaf_11177952036552367946.plus.aac.p.m4a"
+                                }
+                            ],
+                            "artistName": "Deftones"
+                        },
+                        "rank": 44,
+                        "featured_album": false
+                    },
+                    "loser": {
+                        "id": "1099841638",
+                        "type": "songs",
+                        "href": "/v1/catalog/us/songs/1099841638",
+                        "attributes": {
+                            "albumName": "Covers",
+                            "genreNames": [
+                                "Hard Rock",
+                                "Music",
+                                "Rock",
+                                "Metal",
+                                "Alternative"
+                            ],
+                            "trackNumber": 9,
+                            "releaseDate": "2005-10-04",
+                            "durationInMillis": 324253,
+                            "isrc": "USMV20500176",
+                            "artwork": {
+                                "width": 1425,
+                                "height": 1425,
+                                "url": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/c7/c9/92/c7c99256-cb22-ed37-c7ca-2f0d2800bcb8/093624919735.jpg/{w}x{h}bb.jpg",
+                                "bgColor": "9b9794",
+                                "textColor1": "090808",
+                                "textColor2": "201e1e",
+                                "textColor3": "262424",
+                                "textColor4": "393635"
+                            },
+                            "composerName": "Andy Taylor, John Taylor, Nick Rhodes, Roger Taylor & Simon Le Bon",
+                            "url": "https://music.apple.com/us/album/the-chauffeur/1099841342?i=1099841638",
+                            "playParams": {
+                                "id": "1099841638",
+                                "kind": "song"
+                            },
+                            "discNumber": 1,
+                            "hasLyrics": true,
+                            "isAppleDigitalMaster": false,
+                            "name": "The Chauffeur",
+                            "previews": [
+                                {
+                                    "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/7f/c7/6f/7fc76f0f-cc3f-f42f-bc96-c6335820b577/mzaf_1578374249541163407.plus.aac.p.m4a"
+                                }
+                            ],
+                            "artistName": "Deftones"
+                        },
+                        "rank": 55,
+                        "featured_album": false
+                    }
+                }
+            },
+            {
+                "matchupId": "5673023801099846384",
+                "attributes": {
+                    "complete": true,
+                    "song1": {
+                        "song": {
+                            "id": "567302380",
+                            "type": "songs",
+                            "href": "/v1/catalog/us/songs/567302380",
+                            "attributes": {
+                                "albumName": "Koi No Yokan",
+                                "genreNames": [
+                                    "Hard Rock",
+                                    "Music",
+                                    "Rock",
+                                    "Metal"
+                                ],
+                                "trackNumber": 3,
+                                "durationInMillis": 248889,
+                                "releaseDate": "2012-09-19",
+                                "isrc": "USRE11200472",
+                                "artwork": {
+                                    "width": 1425,
+                                    "height": 1425,
+                                    "url": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/0f/b0/5a/0fb05adc-3847-4e07-3fe7-3cf9eb898e4d/093624946793.jpg/{w}x{h}bb.jpg",
+                                    "bgColor": "000000",
+                                    "textColor1": "f95020",
+                                    "textColor2": "ec541a",
+                                    "textColor3": "c7401a",
+                                    "textColor4": "bc4315"
+                                },
+                                "composerName": "Deftones, Abe Cunningham, Chi Cheng, Chino Moreno, Frank Delgado & Stephen Carpenter",
+                                "playParams": {
+                                    "id": "567302380",
+                                    "kind": "song"
+                                },
+                                "url": "https://music.apple.com/us/album/leathers/567302377?i=567302380",
+                                "discNumber": 1,
+                                "isAppleDigitalMaster": true,
+                                "hasLyrics": true,
+                                "name": "Leathers",
+                                "previews": [
+                                    {
+                                        "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/e2/a4/ab/e2a4aba8-344c-bb7e-19b0-4c9b44154841/mzaf_4236801423886085141.plus.aac.p.m4a"
+                                    }
+                                ],
+                                "artistName": "Deftones"
+                            },
+                            "rank": 42,
+                            "featured_album": false
+                        },
+                        "groupRank": 42,
+                        "winner": null
+                    },
+                    "song2": {
+                        "song": {
+                            "id": "1099846384",
+                            "type": "songs",
+                            "href": "/v1/catalog/us/songs/1099846384",
+                            "attributes": {
+                                "albumName": "Diamond Eyes (Deluxe Edition)",
+                                "genreNames": [
+                                    "Hard Rock",
+                                    "Music",
+                                    "Rock",
+                                    "Metal"
+                                ],
+                                "trackNumber": 4,
+                                "durationInMillis": 211133,
+                                "releaseDate": "2010-04-30",
+                                "isrc": "USRE11600062",
+                                "artwork": {
+                                    "width": 1425,
+                                    "height": 1425,
+                                    "url": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/cd/bd/cb/cdbdcbfd-0b6e-93ff-61f7-04c9d5da7368/093624919759.jpg/{w}x{h}bb.jpg",
+                                    "bgColor": "c3c5c0",
+                                    "textColor1": "000000",
+                                    "textColor2": "272a27",
+                                    "textColor3": "272726",
+                                    "textColor4": "464945"
+                                },
+                                "composerName": "Abe Cunningham, Chino Moreno, Frank Delgado, Sergio Vega & Stephen Carpenter",
+                                "playParams": {
+                                    "id": "1099846384",
+                                    "kind": "song"
+                                },
+                                "url": "https://music.apple.com/us/album/youve-seen-the-butcher/1099846321?i=1099846384",
+                                "discNumber": 1,
+                                "hasLyrics": true,
+                                "isAppleDigitalMaster": true,
+                                "name": "You've Seen the Butcher",
+                                "previews": [
+                                    {
+                                        "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/e0/90/c6/e090c664-63eb-82b3-faa3-d1af26a9da34/mzaf_3130580779769319849.plus.aac.p.m4a"
+                                    }
+                                ],
+                                "artistName": "Deftones"
+                            },
+                            "rank": 28,
+                            "featured_album": false
+                        },
+                        "groupRank": 28,
+                        "winner": null
+                    },
+                    "winner": {
+                        "id": "1099846384",
+                        "type": "songs",
+                        "href": "/v1/catalog/us/songs/1099846384",
+                        "attributes": {
+                            "albumName": "Diamond Eyes (Deluxe Edition)",
+                            "genreNames": [
+                                "Hard Rock",
+                                "Music",
+                                "Rock",
+                                "Metal"
+                            ],
+                            "trackNumber": 4,
+                            "durationInMillis": 211133,
+                            "releaseDate": "2010-04-30",
+                            "isrc": "USRE11600062",
+                            "artwork": {
+                                "width": 1425,
+                                "height": 1425,
+                                "url": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/cd/bd/cb/cdbdcbfd-0b6e-93ff-61f7-04c9d5da7368/093624919759.jpg/{w}x{h}bb.jpg",
+                                "bgColor": "c3c5c0",
+                                "textColor1": "000000",
+                                "textColor2": "272a27",
+                                "textColor3": "272726",
+                                "textColor4": "464945"
+                            },
+                            "composerName": "Abe Cunningham, Chino Moreno, Frank Delgado, Sergio Vega & Stephen Carpenter",
+                            "playParams": {
+                                "id": "1099846384",
+                                "kind": "song"
+                            },
+                            "url": "https://music.apple.com/us/album/youve-seen-the-butcher/1099846321?i=1099846384",
+                            "discNumber": 1,
+                            "hasLyrics": true,
+                            "isAppleDigitalMaster": true,
+                            "name": "You've Seen the Butcher",
+                            "previews": [
+                                {
+                                    "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/e0/90/c6/e090c664-63eb-82b3-faa3-d1af26a9da34/mzaf_3130580779769319849.plus.aac.p.m4a"
+                                }
+                            ],
+                            "artistName": "Deftones"
+                        },
+                        "rank": 28,
+                        "featured_album": false
+                    },
+                    "loser": {
+                        "id": "567302380",
+                        "type": "songs",
+                        "href": "/v1/catalog/us/songs/567302380",
+                        "attributes": {
+                            "albumName": "Koi No Yokan",
+                            "genreNames": [
+                                "Hard Rock",
+                                "Music",
+                                "Rock",
+                                "Metal"
+                            ],
+                            "trackNumber": 3,
+                            "durationInMillis": 248889,
+                            "releaseDate": "2012-09-19",
+                            "isrc": "USRE11200472",
+                            "artwork": {
+                                "width": 1425,
+                                "height": 1425,
+                                "url": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/0f/b0/5a/0fb05adc-3847-4e07-3fe7-3cf9eb898e4d/093624946793.jpg/{w}x{h}bb.jpg",
+                                "bgColor": "000000",
+                                "textColor1": "f95020",
+                                "textColor2": "ec541a",
+                                "textColor3": "c7401a",
+                                "textColor4": "bc4315"
+                            },
+                            "composerName": "Deftones, Abe Cunningham, Chi Cheng, Chino Moreno, Frank Delgado & Stephen Carpenter",
+                            "playParams": {
+                                "id": "567302380",
+                                "kind": "song"
+                            },
+                            "url": "https://music.apple.com/us/album/leathers/567302377?i=567302380",
+                            "discNumber": 1,
+                            "isAppleDigitalMaster": true,
+                            "hasLyrics": true,
+                            "name": "Leathers",
+                            "previews": [
+                                {
+                                    "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/e2/a4/ab/e2a4aba8-344c-bb7e-19b0-4c9b44154841/mzaf_4236801423886085141.plus.aac.p.m4a"
+                                }
+                            ],
+                            "artistName": "Deftones"
+                        },
+                        "rank": 42,
+                        "featured_album": false
+                    }
+                }
+            }
+        ]
+    },
+    "round6": {
+        "progress": 0,
+        "roundMatchups": [
+            {
+                "matchupId": "10998508601099846384",
+                "attributes": {
+                    "complete": false,
+                    "song1": {
+                        "song": {
+                            "id": "1099850860",
+                            "type": "songs",
+                            "href": "/v1/catalog/us/songs/1099850860",
+                            "attributes": {
+                                "albumName": "Saturday Night Wrist (Bonus Track Version)",
+                                "genreNames": [
+                                    "Hard Rock",
+                                    "Music",
+                                    "Rock",
+                                    "Metal",
+                                    "Adult Alternative"
+                                ],
+                                "trackNumber": 11,
+                                "durationInMillis": 194373,
+                                "releaseDate": "2006-10-31",
+                                "isrc": "USRE11600127",
+                                "artwork": {
+                                    "width": 1425,
+                                    "height": 1425,
+                                    "url": "https://is1-ssl.mzstatic.com/image/thumb/Music49/v4/2e/12/19/2e121951-b104-af73-1952-93b3aaccabcf/093624919773.jpg/{w}x{h}bb.jpg",
+                                    "bgColor": "0a1616",
+                                    "textColor1": "d1d7ae",
+                                    "textColor2": "ceaa84",
+                                    "textColor3": "a9b190",
+                                    "textColor4": "a78c6e"
+                                },
+                                "composerName": "Abe Cunningham, Chi Cheng, Chino Moreno, Frank Delgado & Stephen Carpenter",
+                                "playParams": {
+                                    "id": "1099850860",
+                                    "kind": "song"
+                                },
+                                "url": "https://music.apple.com/us/album/kimdracula/1099850829?i=1099850860",
+                                "discNumber": 1,
+                                "isAppleDigitalMaster": true,
+                                "hasLyrics": true,
+                                "name": "Kimdracula",
+                                "previews": [
+                                    {
+                                        "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/e2/fe/19/e2fe1932-83a7-4164-4df2-4ffbfb569d4a/mzaf_11177952036552367946.plus.aac.p.m4a"
+                                    }
+                                ],
+                                "artistName": "Deftones"
+                            },
+                            "rank": 44,
+                            "featured_album": false
+                        },
+                        "groupRank": 44,
+                        "winner": null
+                    },
+                    "song2": {
+                        "song": {
+                            "id": "1099846384",
+                            "type": "songs",
+                            "href": "/v1/catalog/us/songs/1099846384",
+                            "attributes": {
+                                "albumName": "Diamond Eyes (Deluxe Edition)",
+                                "genreNames": [
+                                    "Hard Rock",
+                                    "Music",
+                                    "Rock",
+                                    "Metal"
+                                ],
+                                "trackNumber": 4,
+                                "durationInMillis": 211133,
+                                "releaseDate": "2010-04-30",
+                                "isrc": "USRE11600062",
+                                "artwork": {
+                                    "width": 1425,
+                                    "height": 1425,
+                                    "url": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/cd/bd/cb/cdbdcbfd-0b6e-93ff-61f7-04c9d5da7368/093624919759.jpg/{w}x{h}bb.jpg",
+                                    "bgColor": "c3c5c0",
+                                    "textColor1": "000000",
+                                    "textColor2": "272a27",
+                                    "textColor3": "272726",
+                                    "textColor4": "464945"
+                                },
+                                "composerName": "Abe Cunningham, Chino Moreno, Frank Delgado, Sergio Vega & Stephen Carpenter",
+                                "playParams": {
+                                    "id": "1099846384",
+                                    "kind": "song"
+                                },
+                                "url": "https://music.apple.com/us/album/youve-seen-the-butcher/1099846321?i=1099846384",
+                                "discNumber": 1,
+                                "hasLyrics": true,
+                                "isAppleDigitalMaster": true,
+                                "name": "You've Seen the Butcher",
+                                "previews": [
+                                    {
+                                        "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/e0/90/c6/e090c664-63eb-82b3-faa3-d1af26a9da34/mzaf_3130580779769319849.plus.aac.p.m4a"
+                                    }
+                                ],
+                                "artistName": "Deftones"
+                            },
+                            "rank": 28,
+                            "featured_album": false
+                        },
+                        "groupRank": 28,
+                        "winner": null
+                    }
+                }
+            }
+        ]
+    }
+}
