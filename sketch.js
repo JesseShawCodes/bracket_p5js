@@ -20,11 +20,13 @@ function preload() {
 
 function setup() {
   createCanvas(3200, 3800);
+  background(255, 250, 255);
+  drawBracket();
 }
 
 function draw() {
-  background(255, 250, 255);
-  drawBracket();
+  // background(255, 250, 255);
+  // drawBracket();
 }
 
 function drawBracket() {
@@ -241,7 +243,6 @@ function winner(winner) {
 }
 
 function drawCenteredRect(centerX, centerY, rectWidth, rectHeight, winner) {
-  console.log(winner.song.attributes.artwork.bgColor);
   fill(`#${winner.song.attributes.artwork.bgColor}`);
   let x = centerX - rectWidth / 2;
   let y = centerY - rectHeight / 2;
